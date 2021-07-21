@@ -1,0 +1,2 @@
+# ComputerScienceNote
+Personal usage.
