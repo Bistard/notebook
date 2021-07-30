@@ -24,7 +24,7 @@ let ourName;
 
 ```js
 var myName = "Chris"; // declaration and assignment at the same time
-myname = "Chris Li";
+myname = "Chris Li";s
 
 let ourName = "MarkdownNote";
 
