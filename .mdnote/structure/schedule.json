@@ -1,0 +1,38 @@
+{
+  "path": "D:\\dev\\AllNote/schedule",
+  "name": "schedule",
+  "baseName": "schedule",
+  "nodes": {
+    "dataType": "Map",
+    "value": [
+      [
+        "schedule.md",
+        {
+          "path": "D:\\dev\\AllNote\\schedule\\schedule.md",
+          "name": "schedule",
+          "baseName": "schedule.md",
+          "nodes": null,
+          "level": 1,
+          "isFolder": false,
+          "isExpand": false,
+          "element": {},
+          "file": {
+            "type": 0,
+            "createTime": 1631256472964,
+            "modifyTime": 1631256472964,
+            "byteSize": 0,
+            "name": "schedule.md",
+            "plainText": ""
+          },
+          "textElement": {}
+        }
+      ]
+    ]
+  },
+  "level": 0,
+  "isFolder": true,
+  "isExpand": false,
+  "element": {},
+  "file": null,
+  "textElement": {}
+}

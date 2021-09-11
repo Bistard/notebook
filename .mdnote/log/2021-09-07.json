@@ -1,0 +1,12 @@
+[error] 23:14:39:function getMilliseconds() { [native code] }
+        Log Message: Error  No Editor Found! Error: No Editor Found!
+    at MarkdownComponent.markdownDisplayFile (webpack://markdownnote/./src/code/browser/workbench/editor/markdown/markdown.ts?:228:21)
+    at eval (webpack://markdownnote/./src/code/browser/workbench/editor/markdown/markdown.ts?:117:83)
+    at eval (webpack://markdownnote/./src/base/common/event.ts?:21:38)
+    at Array.forEach (<anonymous>)
+    at EventEmitter.emit (webpack://markdownnote/./src/base/common/event.ts?:20:30)
+    at TabBarComponent.set focusTabIndex [as focusTabIndex] (webpack://markdownnote/./src/code/browser/workbench/editor/tabBar/tabBar.ts?:98:35)
+    at TabBarComponent.switchToTab (webpack://markdownnote/./src/code/browser/workbench/editor/tabBar/tabBar.ts?:178:28)
+    at EventEmitter.eval (webpack://markdownnote/./src/code/browser/workbench/editor/tabBar/tabBar.ts?:126:22)
+    at EventEmitter.emit (events.js:315:20)
+    at Object.onMessage (electron/js2c/renderer_init.js:93:1117)

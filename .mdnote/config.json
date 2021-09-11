@@ -1,0 +1,16 @@
+{
+  "OpenDirConfig": {
+    "defaultPath": "C:\\Users\\chrisli\\Desktop",
+    "buttonLabel": "select a directory",
+    "properties": [
+      "openDirectory"
+    ]
+  },
+  "noteBookManagerExclude": [
+    ".*"
+  ],
+  "noteBookManagerInclude": [],
+  "fileAutoSaveOn": true,
+  "defaultMarkdownMode": "wysiwyg",
+  "markdownSpellCheckOn": false
+}
