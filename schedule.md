@@ -1,3 +1,5 @@
+
+
 | **Subject**  | **Description**                                              | **Deadline**                             |
 | ------------ | ------------------------------------------------------------ | ---------------------------------------- |
 | MATH 237     |                                                              |                                          |
@@ -12,17 +14,18 @@
 |              | ✔Readings: Part I, Sections 1.1.1 – 1.1.7                    |                                          |
 |              | week#2                                                       |                                          |
 | CS 245       |                                                              |                                          |
-|              | ✍Week#1 [9.6-9.10]                                           |                                          |
-|              | ✍pdf (52 pages)                                              |                                          |
-|              | ✍Marked Quiz 1 available                                     |                                          |
+|              | ✔pdf (52 pages)                                              |                                          |
+|              | ✔Marked Quiz 1 available                                     | Sep 15, 2021 12:00 PM                    |
 | CS 246E      |                                                              |                                          |
-|              | [Tutorial #1](https://learn.uwaterloo.ca/d2l/le/content/709722/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-3910158) (6m38s) |                                          |
-|              | ✍Assignment #0                                               | Due Tuesday                              |
+|              | ✔[Tutorials](https://learn.uwaterloo.ca/d2l/le/content/709722/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-3910158) |                                          |
+|              | ✍[lecture video Part 1 and Part 2 (1hr +)](https://piazza.com/class/ksak5md8lmy6w1?cid=24) |                                          |
+|              | ✍Assignment #0                                               | Tuesday, September 14, 2021, 5pm         |
 | SPOCOM 100   |                                                              |                                          |
-|              |                                                              |                                          |
+|              | ✔fill location table                                         |                                          |
+|              | ✍[introducing myself](https://learn.uwaterloo.ca/d2l/le/726790/discussions/topics/458071/View) | Wednesday September 15                   |
 | PD1          |                                                              |                                          |
 |              | update a new resume                                          |                                          |
-|              | ⏰interview (booked)                                          | Thursday, September 13, 2021 at 2:00 PM  |
+|              | ⏰interview (booked)                                          | Tuesday, September 14, 2021 at 8:00 AM   |
 |              | ✔integrity assignment                                        | Thursday, September 9, 2021 at 11:55 PM  |
 |              | ✔Assignment 1: Skills and Bullet Points                      | Thursday, September 9, 2021 at 11:55 PM  |
 |              | Assignment 2: Values and Cover Letters                       | Tuesday, September 14, 2021 at 11:55 PM  |
@@ -32,7 +35,7 @@
 |              | ✍develop on xxx.xxx.xxx.167                                  |                                          |
 |              | connect A5                                                   |                                          |
 | MarkdownNote |                                                              |                                          |
-|              | source code reading (vscode): Event<T> && Emitter<T>         |                                          |
+|              | ✔source code reading (vscode): Event && Emitter              |                                          |
 |              | ✍stream.ts && buffer.ts                                      |                                          |
 |              | fileService.ts                                               |                                          |
 
@@ -50,27 +53,29 @@
 
     * [ ] readFileUnbuffered()
 
-    * [ ] readFileStreamed(provider)
+    * [x] readFileStreamed(provider)
 
-      * [ ] call: provider.readFileStream()
+      * [x] call: provider.readFileStream() - diskFileSystemProvider
 
-        * [ ] diskFileSystemProvider
+        * [x] newWriteableStream()
 
-          * [ ] newWriteableStream()
+        * [x] readFileIntoStream()
 
-          * [ ] readFileIntoStream()
+          * [x] ⭐doReadFileIntoStream()
 
-            * [ ] ⭐doReadFileIntoStream()
+            * [x] const handle = await provider.open();
 
-              * [ ] const handle = await provider.open();
+            * [x] let buffer = VSBuffer.alloc();
 
-              * [ ] let buffer = VSBuffer.alloc();
+            * [x] do {
 
-              * [ ] do {
+              ​	bytesRead = await provider.read(handle, posInFile, buffer.buffer, posInBuffer, buffer.byteLength - posInBu);
 
-                ​	bytesRead = await provider.read(handle, posInFile, buffer.buffer, posInBuffer, buffer.byteLength - posInBu);
-
-              * [ ] } while (bytesread > 0);
+              provider.write(buffer);
+            
+              buffer = VSBuffer.alloc();
+            
+            * [x] } while (bytesread > 0);
 
     * [ ] readFileBuffered()
 
@@ -78,4 +83,5 @@
 
   * [ ] streamToBuffer()
 
-  * [ ] ...
+    * [ ] streams.consumeStream()
+
