@@ -55,25 +55,40 @@ $$
 
 
 $$
-\infty \text{ } \mathbb R \text{ } \mathbb R^n \text{ } \mathbb N \text{ } \mathbb Z \text{ } \mathbb Q \text{ } \mu \text{ } \theta \text{ } \alpha \text{ } \beta \text{ } \gamma \text{ } \lambda
+\infty \text{ } \mathbb R \text{ } \mathbb R^n \text{ } \mathbb N \text{ } \mathbb Z \text{ } \mathbb Q \text{ } \mu \text{ } \theta \text{ } \alpha \text{ } \beta \text{ } \gamma \text{ } \lambda \text{ } \Phi
 $$
+
+$$
+\mathcal{A} \text{ } \mathcal{M} \text{ } \mathcal{P}
+$$
+
+
+$$
+|f(x) - L| < \epsilon, \text{ whenever } 0 < |x-a| < \delta.
+$$
+
+
 
 $$
 \emptyset \text{ } \varnothing
 $$
 
 
+
 $$
 \cup \text{ } \cap \text{ } \leq \text{ } \geq \text{ } > \text{ } < \text{ } \neq \text{ } \doteq \text{ } \equiv \text{ } \approx \text{ } \sim
 $$
+
 
 $$
 \subset \text{ } \not\subset \text{ } \subseteq \text{ } \nsubseteq \text{ }
 $$
 
+
 $$
 \supset \text{ } \not\supset \text{ } \supseteq \text{ } \nsupseteq
 $$
+
 
 $$
 x \in \mathbb R^2
@@ -88,7 +103,7 @@ $$
 
 
 $$
-\rightarrow \text{ } \Rightarrow \text{ } \leftarrow \text{ } \Leftarrow \text{ } \leftrightarrow \text{ } \Leftrightarrow \text{ } \rightleftharpoons
+\rightarrow \text{ } \Rightarrow \text{ } \leftarrow \text{ } \Leftarrow \text{ } \leftrightarrow \text{ } \Leftrightarrow \text{ } \rightleftharpoons \text{ } \mapsto
 $$
 
 
@@ -110,6 +125,11 @@ $$
 n \choose k
 $$
 
+$$
+\mathcal{A} = \bigcup_{n=0}^{\infty}\mathcal{A}_n
+$$
+
+
 
 $$
 \prescript{}{V}{[T]}_U
@@ -122,7 +142,7 @@ $$
 
 
 $$
-\lim\limits_{n\Rightarrow\infty}
+\lim\limits_{n\rightarrow\infty}
 $$
 
 
