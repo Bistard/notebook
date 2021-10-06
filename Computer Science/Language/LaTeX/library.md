@@ -13,6 +13,16 @@
 \end{proof}
 ```
 
+```latex	
+\begin{enumerate}
+    \item 
+\end{enumerate}
+
+\begin{enumerate}[i]
+    \item 
+\end{enumerate}
+```
+
 ## Equations
 
 $$
@@ -52,6 +62,9 @@ $$
 
 ## Symbols
 
+$$
+A \models B \text{, } C \logequiv D
+$$
 
 
 $$

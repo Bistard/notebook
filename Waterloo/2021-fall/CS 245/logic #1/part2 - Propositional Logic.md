@@ -22,7 +22,7 @@
 
 The above argument is **valid**.
 
-> A valid (correct, sound) argument is one in which, whenever the premises are true, the conclusion is also true.
+> **<u>A valid (correct, sound) argument is one in which, whenever the premises are true, the conclusion is also true.</u>**
 
 * Logic studies <u>forms</u> of reasoning. 
 
