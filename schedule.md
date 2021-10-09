@@ -12,23 +12,21 @@
 |                                                              | review tutorial 2 hand-in questions                          |                                                     |
 |                                                              | review A02 solutions                                         |                                                     |
 |                                                              | review tutorial 3 hand-in questions                          |                                                     |
-|                                                              | [week#4 lecture L-4-1/2/3](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                     |
-|                                                              | tutorial 4                                                   | October 6 8:30 am                                   |
-|                                                              | A03                                                          | Thu, Oct 7, 2021 11:00 PM (中国标准时间)            |
+|                                                              | review A03 solutions                                         |                                                     |
 |                                                              | Tutorial 4 hand in question for TUT-102                      | Mon, Oct 18, 2021 9:30 PM (中国标准时间)            |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                     |
-|                                                              | review A01 solutions                                         | important, do not forget                            |
-|                                                              | ✍[lecture#4](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                     |
-|                                                              | two practice quizzes                                         |                                                     |
-|                                                              | 🍎A02                                                         | Thu, Oct 7, 2021 12:00 AM (中国标准时间)            |
+|                                                              | review A01 solutions                                         |                                                     |
+|                                                              | review A02 solutions                                         |                                                     |
+|                                                              | ✔[lecture#4](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                     |
+|                                                              | ✔A02                                                         | Thu, Oct 7, 2021 12:00 AM (中国标准时间)            |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | October ssh -Y s795li@linux.student.cs.uwaterloo.ca |
-|                                                              | lectures and take notes                                      |                                                     |
+|                                                              | lectures (✍16 (delete [] q;), ✍21, ✍23, 28, 30, 05)          |                                                     |
 |                                                              | review quiz#3                                                |                                                     |
-|                                                              | quiz#4                                                       | Friday, October 8th, at 5:00PM                      |
+|                                                              | ✔quiz#4                                                      | Friday, October 8th, at 5:00PM                      |
 |                                                              |                                                              |                                                     |
 | **SPOCOM 100**                                               |                                                              |                                                     |
 |                                                              | discussion comment                                           | October 3 at 11:59pm                                |
-|                                                              | ✍[quiz](https://learn.uwaterloo.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=194284&ou=726790) | next tuesday?                                       |
+|                                                              | [quiz](https://learn.uwaterloo.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=194284&ou=726790) | next tuesday?                                       |
 | **PD1**                                                      |                                                              |                                                     |
 |                                                              | ✍apply for coop work-permit                                  |                                                     |
 |                                                              | cover letter                                                 |                                                     |
@@ -37,8 +35,8 @@
 |                                                              | ✔compilation                                                 |                                                     |
 |                                                              | ✔develop on xxx.xxx.xxx.167                                  |                                                     |
 |                                                              | ✔connect A5                                                  |                                                     |
-|                                                              | connect MySQL                                                |                                                     |
-|                                                              | [write configuration]                                        |                                                     |
+|                                                              | ✔connect MySQL                                               |                                                     |
+|                                                              | ✔[write configuration]                                       |                                                     |
 |                                                              | ✔ login A5 first                                             | reference: *dataproxy.cpp & xxxassistant.cpp        |
 |                                                              | ✔ async: get rsp - test                                      |                                                     |
 |                                                              | ✔ LEARN: XML API                                             |                                                     |
@@ -47,7 +45,10 @@
 |                                                              | ✔ (read a5_fielddef.xml to get coressponding field key (id value -> string field key) - e.g '605' -> 'FID_KHH' |                                                     |
 |                                                              | ✔new API: create TABLE                                       |                                                     |
 |                                                              | ✔合成MySQL语句 + 插入 (update map) - (MySQL.insert())        |                                                     |
-|                                                              | read mapConfig.xml to auto send request to A5                |                                                     |
+|                                                              | ✔read mapConfig.xml to auto send request to A5               |                                                     |
+|                                                              | ✍fix cannot get login arguments                              |                                                     |
+|                                                              | check if the MySQL table matches                             |                                                     |
+|                                                              | memory leak check                                            |                                                     |
 |                                                              | done                                                         |                                                     |
 | **MarkdownNote**                                             |                                                              |                                                     |
 |                                                              | architecture explanation.md                                  |                                                     |

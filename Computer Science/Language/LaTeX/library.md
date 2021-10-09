@@ -63,8 +63,9 @@ $$
 ## Symbols
 
 $$
-A \models B \text{, } C \logequiv D
+A \models B \text{, } A \vDash b \text{, } C \logequiv D
 $$
+
 
 
 $$

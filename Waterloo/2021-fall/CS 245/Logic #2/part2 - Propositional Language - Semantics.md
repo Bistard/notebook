@@ -36,7 +36,7 @@ Truth table for $(p \and \neg q) \rightarrow \neg r$:
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20210922120847503.png" alt="image-20210922120847503" style="zoom:50%;" />
 
-## Truth Valuations - Definition
+## Truth Valuations
 
 * A <u>truth table</u> list the values of a formula under all possible truth valuations.
 
@@ -58,7 +58,7 @@ Truth table for $(p \and \neg q) \rightarrow \neg r$:
 
 ![image-20210922121834054](D:\dev\AllNote\.mdnote\assets\image-20210922121834054.png)
 
-## Satisfiability - Definition
+## Satisfiability
 
 > <u>Definition</u>: We say that a truth valuation $t$ satisfies a formula $A$ in Form($\mathcal{L}^p$) iff $A^t$ = 1.
 
@@ -73,7 +73,7 @@ We use $\sum$ to denote any set of formulas.
 > \end{cases}
 > $$
 
-> <u>Definition</u>: A set of formulas $\sum \subseteq$ Form($\mathcal{L}^p$) is satisfiable iff there exists a truth valuation $t$ such that ${\sum}^t = 1$. In the other hand, there is no truth valuation $t$ such that ${\sum}^t = 1$, then the set $\sum$ is called <u>unsatisfiable</u>.
+> <u>Definition</u>: A set of formulas $\sum \subseteq$ Form($\mathcal{L}^p$) is satisfiable iff there exists a truth valuation $t$ such that ${\sum}^t = 1$. In the other hand, there is no truth valuation $t$ such that ${\sum}^t = 1$, then the set $\sum$ is called <u>**unsatisfiable**</u>.
 
 ### Observations
 
@@ -87,7 +87,7 @@ We use $\sum$ to denote any set of formulas.
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20210922123010691.png" alt="image-20210922123010691" style="zoom:67%;" />
 
-## Tautologies and contradictions - Definition
+## Tautology and contradiction
 
 > <u>Definition</u>: Formula $A$ is a <u>tautology</u> iff is true under all possible truth valuation, i.e., iff for any turth valuation $t$, we have that $A^t = 1$.
 >
@@ -133,7 +133,7 @@ If $A $is a tautology that contains the proposition symbol $p$, one can determin
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20210922124245021.png" alt="image-20210922124245021" style="zoom:67%;" />
 
-## Formalizing argument validity: Tauotological consequence - Definition
+## Tauotological consequence
 
 > <u>Definition</u>: Suppose $\sum \subseteq$ Form($\mathcal{L}^p$) and $A \in$ Form($\mathcal{L}^p$).
 >
@@ -144,7 +144,7 @@ If $A $is a tautology that contains the proposition symbol $p$, one can determin
 > * $\models$ is not a symbol of the formal propositional language and $\sum \models A$ is not a formula.
 > * $\sum \models A$ is a statement (in the metalanguage) about $\sum$ and $A$.
 > * We write $\sum \not\models A$ for "not $\sum \models A$".
-> * If $\sum \models A$, we say that the formulas in $\sum$ (tauto)logically imply formula $A$.
+> * If $\sum \models A$, we say that the formulas in $\sum$ (tauto)logically implies formula $A$.
 
 ### A special case: $\emptyset \models A$
 
@@ -160,7 +160,7 @@ When $\sum$ is the empty set, we obtain the important special case of tautologic
 
 ![image-20210922173702665](D:\dev\AllNote\.mdnote\assets\image-20210922173702665.png)
 
-## Tautological Equivalence - Definition
+## Tautological Equivalence
 
 > <u>Definition</u>: For two formulas we write:
 > $$
@@ -172,7 +172,7 @@ $A$ and $B$ are said to be <u>tautologically equivalent</u> (or simply <u>equiva
 
 Tautologically equivalent formulas are assigned the same truth values by any truth valuation.
 
-### Note
+**Note**
 
 * Tautological equivalence is weaker than equality of formulas. For example:
 
