@@ -77,6 +77,3 @@ this的目的总是指向"这个"object (理解为python中的变量"self"), 所
     2 Chris.growUp();
 ```
 
-```cpp
-
-```
