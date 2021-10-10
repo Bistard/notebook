@@ -88,7 +88,7 @@ int main()
 }
 ```
 
-按照常理来说, `main()`中应该会调用move constructor. 然而我们的output为:
+按照常理来说, `main()`中应该会先constructor, 然后调用move constructor. 然而我们的output为:
 
 ```cpp
 calling constructor
