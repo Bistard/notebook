@@ -24,7 +24,7 @@ int main()
 {
     Human human;
     Human anotherHuman = human; // ⭐copy constructor
-    anotherHuman = human; // 这里是copy-assignment operator!! 以后在讲
+    anotherHuman = human; // 这里是copy-assignment operator!! 以后x讲
 }
 ```
 

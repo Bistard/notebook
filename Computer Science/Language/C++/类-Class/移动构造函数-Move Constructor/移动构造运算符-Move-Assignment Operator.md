@@ -11,11 +11,11 @@ Human &operator=(Human &&other); // move-assignment operator
 Human &operator=(Human &&other)
 {
     std::cout << "calling move-assignment operator" << std::endl;
-    if (this == &other) {
-        delete _child;
-        _name = other._name;
-        _age = other._age;
-        _height = other._height;
+    if (this != &other) {
+        std::swap(_child, other._child);
+        std::swap(_name, other._name);
+        std::swap(_age, other._age);
+        std::swap(_height, other._height);
     }
     return *this;
 }

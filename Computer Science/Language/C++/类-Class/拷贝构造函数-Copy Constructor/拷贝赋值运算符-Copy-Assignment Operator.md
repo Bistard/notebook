@@ -87,7 +87,7 @@ int main() {
 Human &operator=(const Human &other)
 {
     if (&other == this) {
-        return;
+        return ;
     }
     _name = other._name;
     _age = other._age;

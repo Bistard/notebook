@@ -55,6 +55,11 @@ public:
             _p = _p->_next;
             return *this;
         }
+        iterator operator++(int) {
+            iterator temp = *this;
+            _p = _p->_next;
+            return temp;
+        }
     };
 
     class const_iterator {
@@ -68,6 +73,11 @@ public:
             _p = _p->_next;
             return *this;
         }
+        const_iterator operator++(int) {
+            const_iterator temp = *this;
+            _p = _p->_next;
+            return temp;
+        }
     };
 
     iterator begin() { return iterator {_first_node}; }
@@ -78,4 +88,6 @@ public:
     // ...
 };
 ```
+
+如何防止外部构造一个`iterator`类型? 见[友元-friendship](../友元-Friendship.md).
 
