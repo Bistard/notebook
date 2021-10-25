@@ -1,7 +1,3 @@
-# Propositional Language - Syntax
-
-
-
 ## Propositional Language
 
 * By using connectives, we can combine propositions, whether they are atomic themselves or compound.
@@ -118,7 +114,7 @@ Suppose P names a property. We write $"P(2)"$ to mean that "$2$ has property $P$
 
 > A statment "every natural number has property P" corresponds to a sequence of statements
 > $$
-> zP(0), P(1), P(2), P(3), ...
+> P(0), P(1), P(2), P(3), ...
 > $$
 
 ### Principle of Mathematical induction

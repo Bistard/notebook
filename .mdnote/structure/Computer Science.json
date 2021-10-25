@@ -1,0 +1,2372 @@
+{
+  "path": "D:\\dev\\AllNote/Computer Science",
+  "name": "Computer Science",
+  "baseName": "Computer Science",
+  "nodes": {
+    "dataType": "Map",
+    "value": [
+      [
+        "Algorithm",
+        {
+          "path": "D:\\dev\\AllNote\\Computer Science\\Algorithm",
+          "name": "Algorithm",
+          "baseName": "Algorithm",
+          "nodes": {
+            "dataType": "Map",
+            "value": []
+          },
+          "level": 1,
+          "isFolder": true,
+          "isExpand": false,
+          "element": {},
+          "file": null,
+          "textElement": {}
+        }
+      ],
+      [
+        "Competitive Programming",
+        {
+          "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming",
+          "name": "Competitive Programming",
+          "baseName": "Competitive Programming",
+          "nodes": {
+            "dataType": "Map",
+            "value": [
+              [
+                "LeetCode",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode",
+                  "name": "LeetCode",
+                  "baseName": "LeetCode",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "Top 100 Liked Questions",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode\\Top 100 Liked Questions",
+                          "name": "Top 100 Liked Questions",
+                          "baseName": "Top 100 Liked Questions",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "1-[Easy]-Two Sums.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode\\Top 100 Liked Questions\\1-[Easy]-Two Sums.md",
+                                  "name": "1-[Easy]-Two Sums",
+                                  "baseName": "1-[Easy]-Two Sums.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977456,
+                                    "modifyTime": 1634915977456,
+                                    "byteSize": 0,
+                                    "name": "1-[Easy]-Two Sums.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "2-[Medium]-Add Two Numbers.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode\\Top 100 Liked Questions\\2-[Medium]-Add Two Numbers.md",
+                                  "name": "2-[Medium]-Add Two Numbers",
+                                  "baseName": "2-[Medium]-Add Two Numbers.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977456,
+                                    "modifyTime": 1634915977456,
+                                    "byteSize": 0,
+                                    "name": "2-[Medium]-Add Two Numbers.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "3-[Medium]-Longest Substring Without Repeating Characters.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode\\Top 100 Liked Questions\\3-[Medium]-Longest Substring Without Repeating Characters.md",
+                                  "name": "3-[Medium]-Longest Substring Without Repeating Characters",
+                                  "baseName": "3-[Medium]-Longest Substring Without Repeating Characters.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977457,
+                                    "modifyTime": 1634915977457,
+                                    "byteSize": 0,
+                                    "name": "3-[Medium]-Longest Substring Without Repeating Characters.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "4-[Hard]-Median of Two Sorted Arrays.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Competitive Programming\\LeetCode\\Top 100 Liked Questions\\4-[Hard]-Median of Two Sorted Arrays.md",
+                                  "name": "4-[Hard]-Median of Two Sorted Arrays",
+                                  "baseName": "4-[Hard]-Median of Two Sorted Arrays.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977457,
+                                    "modifyTime": 1634915977457,
+                                    "byteSize": 0,
+                                    "name": "4-[Hard]-Median of Two Sorted Arrays.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ]
+            ]
+          },
+          "level": 1,
+          "isFolder": true,
+          "isExpand": false,
+          "element": {},
+          "file": null,
+          "textElement": {}
+        }
+      ],
+      [
+        "Language",
+        {
+          "path": "D:\\dev\\AllNote\\Computer Science\\Language",
+          "name": "Language",
+          "baseName": "Language",
+          "nodes": {
+            "dataType": "Map",
+            "value": [
+              [
+                "C",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C",
+                  "name": "C",
+                  "baseName": "C",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "函数介绍-Function Intro.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C\\函数介绍-Function Intro.md",
+                          "name": "函数介绍-Function Intro",
+                          "baseName": "函数介绍-Function Intro.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977458,
+                            "modifyTime": 1634915977458,
+                            "byteSize": 0,
+                            "name": "函数介绍-Function Intro.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "无返回值函数-void.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C\\无返回值函数-void.md",
+                          "name": "无返回值函数-void",
+                          "baseName": "无返回值函数-void.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977459,
+                            "modifyTime": 1634915977459,
+                            "byteSize": 0,
+                            "name": "无返回值函数-void.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "有返回值函数-return.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C\\有返回值函数-return.md",
+                          "name": "有返回值函数-return",
+                          "baseName": "有返回值函数-return.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977459,
+                            "modifyTime": 1634915977459,
+                            "byteSize": 0,
+                            "name": "有返回值函数-return.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "递归的优劣势.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C\\递归的优劣势.md",
+                          "name": "递归的优劣势",
+                          "baseName": "递归的优劣势.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977459,
+                            "modifyTime": 1634915977459,
+                            "byteSize": 0,
+                            "name": "递归的优劣势.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "队帧-Stack Frame.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C\\队帧-Stack Frame.md",
+                          "name": "队帧-Stack Frame",
+                          "baseName": "队帧-Stack Frame.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977459,
+                            "modifyTime": 1634915977459,
+                            "byteSize": 0,
+                            "name": "队帧-Stack Frame.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "C++",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++",
+                  "name": "C++",
+                  "baseName": "C++",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "内存管理-Memory Management",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\内存管理-Memory Management",
+                          "name": "内存管理-Memory Management",
+                          "baseName": "内存管理-Memory Management",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "delete关键词.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\内存管理-Memory Management\\delete关键词.md",
+                                  "name": "delete关键词",
+                                  "baseName": "delete关键词.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977461,
+                                    "modifyTime": 1634915977461,
+                                    "byteSize": 0,
+                                    "name": "delete关键词.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "new&delete重载.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\内存管理-Memory Management\\new&delete重载.md",
+                                  "name": "new&delete重载",
+                                  "baseName": "new&delete重载.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977461,
+                                    "modifyTime": 1634915977461,
+                                    "byteSize": 0,
+                                    "name": "new&delete重载.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "new关键词.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\内存管理-Memory Management\\new关键词.md",
+                                  "name": "new关键词",
+                                  "baseName": "new关键词.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977462,
+                                    "modifyTime": 1634915977462,
+                                    "byteSize": 0,
+                                    "name": "new关键词.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "变量-Variable",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\变量-Variable",
+                          "name": "变量-Variable",
+                          "baseName": "变量-Variable",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": []
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "基础-Intro",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\基础-Intro",
+                          "name": "基础-Intro",
+                          "baseName": "基础-Intro",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": []
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "泛型编程-Generic Programming",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming",
+                          "name": "泛型编程-Generic Programming",
+                          "baseName": "泛型编程-Generic Programming",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "lambda表达式.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\lambda表达式.md",
+                                  "name": "lambda表达式",
+                                  "baseName": "lambda表达式.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977464,
+                                    "modifyTime": 1634915977464,
+                                    "byteSize": 0,
+                                    "name": "lambda表达式.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "模板-Template",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template",
+                                  "name": "模板-Template",
+                                  "baseName": "模板-Template",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "函数模板-Function Template",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template\\函数模板-Function Template",
+                                          "name": "函数模板-Function Template",
+                                          "baseName": "函数模板-Function Template",
+                                          "nodes": {
+                                            "dataType": "Map",
+                                            "value": []
+                                          },
+                                          "level": 5,
+                                          "isFolder": true,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": null,
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "函数模板-Function Template.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template\\函数模板-Function Template.md",
+                                          "name": "函数模板-Function Template",
+                                          "baseName": "函数模板-Function Template.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977465,
+                                            "modifyTime": 1634915977465,
+                                            "byteSize": 0,
+                                            "name": "函数模板-Function Template.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "类模板-Class Template",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template\\类模板-Class Template",
+                                          "name": "类模板-Class Template",
+                                          "baseName": "类模板-Class Template",
+                                          "nodes": {
+                                            "dataType": "Map",
+                                            "value": []
+                                          },
+                                          "level": 5,
+                                          "isFolder": true,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": null,
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "类模板-Class Template.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template\\类模板-Class Template.md",
+                                          "name": "类模板-Class Template",
+                                          "baseName": "类模板-Class Template.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977466,
+                                            "modifyTime": 1634915977466,
+                                            "byteSize": 0,
+                                            "name": "类模板-Class Template.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "模板-Template.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\泛型编程-Generic Programming\\模板-Template.md",
+                                  "name": "模板-Template",
+                                  "baseName": "模板-Template.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977466,
+                                    "modifyTime": 1634915977466,
+                                    "byteSize": 0,
+                                    "name": "模板-Template.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "类-Class",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class",
+                          "name": "类-Class",
+                          "baseName": "类-Class",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "class关键词",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词",
+                                  "name": "class关键词",
+                                  "baseName": "class关键词",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "const重载-Const Overloading.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词\\const重载-Const Overloading.md",
+                                          "name": "const重载-Const Overloading",
+                                          "baseName": "const重载-Const Overloading.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977467,
+                                            "modifyTime": 1634915977467,
+                                            "byteSize": 0,
+                                            "name": "const重载-Const Overloading.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "struct关键词.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词\\struct关键词.md",
+                                          "name": "struct关键词",
+                                          "baseName": "struct关键词.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977467,
+                                            "modifyTime": 1634915977467,
+                                            "byteSize": 0,
+                                            "name": "struct关键词.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "访问控制-Access Specifier.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词\\访问控制-Access Specifier.md",
+                                          "name": "访问控制-Access Specifier",
+                                          "baseName": "访问控制-Access Specifier.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977468,
+                                            "modifyTime": 1634915977468,
+                                            "byteSize": 0,
+                                            "name": "访问控制-Access Specifier.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "迭代器设计模式-Iterator Pattern.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词\\迭代器设计模式-Iterator Pattern.md",
+                                          "name": "迭代器设计模式-Iterator Pattern",
+                                          "baseName": "迭代器设计模式-Iterator Pattern.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977468,
+                                            "modifyTime": 1634915977468,
+                                            "byteSize": 0,
+                                            "name": "迭代器设计模式-Iterator Pattern.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "class关键词.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\class关键词.md",
+                                  "name": "class关键词",
+                                  "baseName": "class关键词.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977468,
+                                    "modifyTime": 1634915977468,
+                                    "byteSize": 0,
+                                    "name": "class关键词.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "友元-Friendship.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\友元-Friendship.md",
+                                  "name": "友元-Friendship",
+                                  "baseName": "友元-Friendship.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977468,
+                                    "modifyTime": 1634915977468,
+                                    "byteSize": 0,
+                                    "name": "友元-Friendship.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "拷贝构造函数-Copy Constructor",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\拷贝构造函数-Copy Constructor",
+                                  "name": "拷贝构造函数-Copy Constructor",
+                                  "baseName": "拷贝构造函数-Copy Constructor",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "右值引用-Rvalue Reference.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\拷贝构造函数-Copy Constructor\\右值引用-Rvalue Reference.md",
+                                          "name": "右值引用-Rvalue Reference",
+                                          "baseName": "右值引用-Rvalue Reference.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977469,
+                                            "modifyTime": 1634915977469,
+                                            "byteSize": 0,
+                                            "name": "右值引用-Rvalue Reference.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "拷贝赋值运算符-Copy-Assignment Operator.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\拷贝构造函数-Copy Constructor\\拷贝赋值运算符-Copy-Assignment Operator.md",
+                                          "name": "拷贝赋值运算符-Copy-Assignment Operator",
+                                          "baseName": "拷贝赋值运算符-Copy-Assignment Operator.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977469,
+                                            "modifyTime": 1634915977469,
+                                            "byteSize": 0,
+                                            "name": "拷贝赋值运算符-Copy-Assignment Operator.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "拷贝构造函数-Copy Constructor.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\拷贝构造函数-Copy Constructor.md",
+                                  "name": "拷贝构造函数-Copy Constructor",
+                                  "baseName": "拷贝构造函数-Copy Constructor.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977470,
+                                    "modifyTime": 1634915977470,
+                                    "byteSize": 0,
+                                    "name": "拷贝构造函数-Copy Constructor.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "拷贝移动省略-Copy and Move Elision.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\拷贝移动省略-Copy and Move Elision.md",
+                                  "name": "拷贝移动省略-Copy and Move Elision",
+                                  "baseName": "拷贝移动省略-Copy and Move Elision.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977470,
+                                    "modifyTime": 1634915977470,
+                                    "byteSize": 0,
+                                    "name": "拷贝移动省略-Copy and Move Elision.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "构造函数-Constructor",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor",
+                                  "name": "构造函数-Constructor",
+                                  "baseName": "构造函数-Constructor",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "=default用法.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor\\=default用法.md",
+                                          "name": "=default用法",
+                                          "baseName": "=default用法.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977471,
+                                            "modifyTime": 1634915977471,
+                                            "byteSize": 0,
+                                            "name": "=default用法.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "=delete用法.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor\\=delete用法.md",
+                                          "name": "=delete用法",
+                                          "baseName": "=delete用法.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977471,
+                                            "modifyTime": 1634915977471,
+                                            "byteSize": 0,
+                                            "name": "=delete用法.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "explicit关键词.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor\\explicit关键词.md",
+                                          "name": "explicit关键词",
+                                          "baseName": "explicit关键词.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977471,
+                                            "modifyTime": 1634915977471,
+                                            "byteSize": 0,
+                                            "name": "explicit关键词.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "构造函数初始值列表-Member Initialization List (MIL).md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor\\构造函数初始值列表-Member Initialization List (MIL).md",
+                                          "name": "构造函数初始值列表-Member Initialization List (MIL)",
+                                          "baseName": "构造函数初始值列表-Member Initialization List (MIL).md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977471,
+                                            "modifyTime": 1634915977471,
+                                            "byteSize": 0,
+                                            "name": "构造函数初始值列表-Member Initialization List (MIL).md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "构造函数-Constructor.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\构造函数-Constructor.md",
+                                  "name": "构造函数-Constructor",
+                                  "baseName": "构造函数-Constructor.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977471,
+                                    "modifyTime": 1634915977471,
+                                    "byteSize": 0,
+                                    "name": "构造函数-Constructor.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "析构函数-Destructor",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\析构函数-Destructor",
+                                  "name": "析构函数-Destructor",
+                                  "baseName": "析构函数-Destructor",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "三五法则.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\析构函数-Destructor\\三五法则.md",
+                                          "name": "三五法则",
+                                          "baseName": "三五法则.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977472,
+                                            "modifyTime": 1634915977472,
+                                            "byteSize": 0,
+                                            "name": "三五法则.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "析构函数-Destructor.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\析构函数-Destructor.md",
+                                  "name": "析构函数-Destructor",
+                                  "baseName": "析构函数-Destructor.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977472,
+                                    "modifyTime": 1634915977472,
+                                    "byteSize": 0,
+                                    "name": "析构函数-Destructor.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "移动构造函数-Move Constructor",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\移动构造函数-Move Constructor",
+                                  "name": "移动构造函数-Move Constructor",
+                                  "baseName": "移动构造函数-Move Constructor",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "移动构造运算符-Move-Assignment Operator.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\移动构造函数-Move Constructor\\移动构造运算符-Move-Assignment Operator.md",
+                                          "name": "移动构造运算符-Move-Assignment Operator",
+                                          "baseName": "移动构造运算符-Move-Assignment Operator.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977473,
+                                            "modifyTime": 1634915977473,
+                                            "byteSize": 0,
+                                            "name": "移动构造运算符-Move-Assignment Operator.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "移动构造函数-Move Constructor.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\移动构造函数-Move Constructor.md",
+                                  "name": "移动构造函数-Move Constructor",
+                                  "baseName": "移动构造函数-Move Constructor.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977473,
+                                    "modifyTime": 1634915977473,
+                                    "byteSize": 0,
+                                    "name": "移动构造函数-Move Constructor.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "统一赋值运算符-Unified-Assignment Operator.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\统一赋值运算符-Unified-Assignment Operator.md",
+                                  "name": "统一赋值运算符-Unified-Assignment Operator",
+                                  "baseName": "统一赋值运算符-Unified-Assignment Operator.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977473,
+                                    "modifyTime": 1634915977473,
+                                    "byteSize": 0,
+                                    "name": "统一赋值运算符-Unified-Assignment Operator.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "继承-Inheritance",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\继承-Inheritance",
+                                  "name": "继承-Inheritance",
+                                  "baseName": "继承-Inheritance",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "访问控制&继承-Access Control & Inheritence.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\继承-Inheritance\\访问控制&继承-Access Control & Inheritence.md",
+                                          "name": "访问控制&继承-Access Control & Inheritence",
+                                          "baseName": "访问控制&继承-Access Control & Inheritence.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977474,
+                                            "modifyTime": 1634915977474,
+                                            "byteSize": 0,
+                                            "name": "访问控制&继承-Access Control & Inheritence.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "继承-Inheritance.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\类-Class\\继承-Inheritance.md",
+                                  "name": "继承-Inheritance",
+                                  "baseName": "继承-Inheritance.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977474,
+                                    "modifyTime": 1634915977474,
+                                    "byteSize": 0,
+                                    "name": "继承-Inheritance.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "语句-Statement",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement",
+                          "name": "语句-Statement",
+                          "baseName": "语句-Statement",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "break&continue语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\break&continue语句.md",
+                                  "name": "break&continue语句",
+                                  "baseName": "break&continue语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977474,
+                                    "modifyTime": 1634915977474,
+                                    "byteSize": 0,
+                                    "name": "break&continue语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "for语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\for语句.md",
+                                  "name": "for语句",
+                                  "baseName": "for语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977475,
+                                    "modifyTime": 1634915977475,
+                                    "byteSize": 0,
+                                    "name": "for语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "goto语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\goto语句.md",
+                                  "name": "goto语句",
+                                  "baseName": "goto语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977475,
+                                    "modifyTime": 1634915977475,
+                                    "byteSize": 0,
+                                    "name": "goto语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "if语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\if语句.md",
+                                  "name": "if语句",
+                                  "baseName": "if语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977475,
+                                    "modifyTime": 1634915977475,
+                                    "byteSize": 0,
+                                    "name": "if语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "switch语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\switch语句.md",
+                                  "name": "switch语句",
+                                  "baseName": "switch语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977475,
+                                    "modifyTime": 1634915977475,
+                                    "byteSize": 0,
+                                    "name": "switch语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "try语句和异常处理-Error Handling",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\try语句和异常处理-Error Handling",
+                                  "name": "try语句和异常处理-Error Handling",
+                                  "baseName": "try语句和异常处理-Error Handling",
+                                  "nodes": {
+                                    "dataType": "Map",
+                                    "value": [
+                                      [
+                                        "构造函数的throw.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\try语句和异常处理-Error Handling\\构造函数的throw.md",
+                                          "name": "构造函数的throw",
+                                          "baseName": "构造函数的throw.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977476,
+                                            "modifyTime": 1634915977476,
+                                            "byteSize": 0,
+                                            "name": "构造函数的throw.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ],
+                                      [
+                                        "析构函数的throw.md",
+                                        {
+                                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\try语句和异常处理-Error Handling\\析构函数的throw.md",
+                                          "name": "析构函数的throw",
+                                          "baseName": "析构函数的throw.md",
+                                          "nodes": null,
+                                          "level": 5,
+                                          "isFolder": false,
+                                          "isExpand": false,
+                                          "element": {},
+                                          "file": {
+                                            "type": 0,
+                                            "createTime": 1634915977476,
+                                            "modifyTime": 1634915977476,
+                                            "byteSize": 0,
+                                            "name": "析构函数的throw.md",
+                                            "plainText": ""
+                                          },
+                                          "textElement": {}
+                                        }
+                                      ]
+                                    ]
+                                  },
+                                  "level": 4,
+                                  "isFolder": true,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": null,
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "try语句和异常处理-Error Handling.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\try语句和异常处理-Error Handling.md",
+                                  "name": "try语句和异常处理-Error Handling",
+                                  "baseName": "try语句和异常处理-Error Handling.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977476,
+                                    "modifyTime": 1634915977476,
+                                    "byteSize": 0,
+                                    "name": "try语句和异常处理-Error Handling.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "while语句.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\C++\\语句-Statement\\while语句.md",
+                                  "name": "while语句",
+                                  "baseName": "while语句.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977477,
+                                    "modifyTime": 1634915977477,
+                                    "byteSize": 0,
+                                    "name": "while语句.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "javascript",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\javascript",
+                  "name": "javascript",
+                  "baseName": "javascript",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "数据类型和变量-Data Types and Variables.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\javascript\\数据类型和变量-Data Types and Variables.md",
+                          "name": "数据类型和变量-Data Types and Variables",
+                          "baseName": "数据类型和变量-Data Types and Variables.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977477,
+                            "modifyTime": 1634915977477,
+                            "byteSize": 0,
+                            "name": "数据类型和变量-Data Types and Variables.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "注释-comment.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\javascript\\注释-comment.md",
+                          "name": "注释-comment",
+                          "baseName": "注释-comment.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977477,
+                            "modifyTime": 1634915977477,
+                            "byteSize": 0,
+                            "name": "注释-comment.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "简单数学-Simple Math.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\javascript\\简单数学-Simple Math.md",
+                          "name": "简单数学-Simple Math",
+                          "baseName": "简单数学-Simple Math.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977477,
+                            "modifyTime": 1634915977477,
+                            "byteSize": 0,
+                            "name": "简单数学-Simple Math.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "LaTeX",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\LaTeX",
+                  "name": "LaTeX",
+                  "baseName": "LaTeX",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "library.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\LaTeX\\library.md",
+                          "name": "library",
+                          "baseName": "library.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977478,
+                            "modifyTime": 1634915977478,
+                            "byteSize": 0,
+                            "name": "library.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "typescript",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript",
+                  "name": "typescript",
+                  "baseName": "typescript",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "基础-Basic",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic",
+                          "name": "基础-Basic",
+                          "baseName": "基础-Basic",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "any.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\any.md",
+                                  "name": "any",
+                                  "baseName": "any.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977479,
+                                    "modifyTime": 1634915977479,
+                                    "byteSize": 0,
+                                    "name": "any.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "built-in-objects.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\built-in-objects.md",
+                                  "name": "built-in-objects",
+                                  "baseName": "built-in-objects.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977479,
+                                    "modifyTime": 1634915977479,
+                                    "byteSize": 0,
+                                    "name": "built-in-objects.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "declaration-files.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\declaration-files.md",
+                                  "name": "declaration-files",
+                                  "baseName": "declaration-files.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977479,
+                                    "modifyTime": 1634915977479,
+                                    "byteSize": 0,
+                                    "name": "declaration-files.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "primitive-data-types.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\primitive-data-types.md",
+                                  "name": "primitive-data-types",
+                                  "baseName": "primitive-data-types.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "primitive-data-types.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "README.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\README.md",
+                                  "name": "README",
+                                  "baseName": "README.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "README.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-assertion.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\type-assertion.md",
+                                  "name": "type-assertion",
+                                  "baseName": "type-assertion.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "type-assertion.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-inference.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\type-inference.md",
+                                  "name": "type-inference",
+                                  "baseName": "type-inference.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "type-inference.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-of-array.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\type-of-array.md",
+                                  "name": "type-of-array",
+                                  "baseName": "type-of-array.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "type-of-array.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-of-function.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\type-of-function.md",
+                                  "name": "type-of-function",
+                                  "baseName": "type-of-function.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977480,
+                                    "modifyTime": 1634915977480,
+                                    "byteSize": 0,
+                                    "name": "type-of-function.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-of-object-interfaces.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\type-of-object-interfaces.md",
+                                  "name": "type-of-object-interfaces",
+                                  "baseName": "type-of-object-interfaces.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977481,
+                                    "modifyTime": 1634915977481,
+                                    "byteSize": 0,
+                                    "name": "type-of-object-interfaces.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "union-types.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\基础-Basic\\union-types.md",
+                                  "name": "union-types",
+                                  "baseName": "union-types.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977481,
+                                    "modifyTime": 1634915977481,
+                                    "byteSize": 0,
+                                    "name": "union-types.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "工程-Engineering",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\工程-Engineering",
+                          "name": "工程-Engineering",
+                          "baseName": "工程-Engineering",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "compiler-options.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\工程-Engineering\\compiler-options.md",
+                                  "name": "compiler-options",
+                                  "baseName": "compiler-options.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977482,
+                                    "modifyTime": 1634915977482,
+                                    "byteSize": 0,
+                                    "name": "compiler-options.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "lint.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\工程-Engineering\\lint.md",
+                                  "name": "lint",
+                                  "baseName": "lint.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977482,
+                                    "modifyTime": 1634915977482,
+                                    "byteSize": 0,
+                                    "name": "lint.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "README.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\工程-Engineering\\README.md",
+                                  "name": "README",
+                                  "baseName": "README.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977482,
+                                    "modifyTime": 1634915977482,
+                                    "byteSize": 0,
+                                    "name": "README.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ],
+                      [
+                        "进阶-Advanced",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced",
+                          "name": "进阶-Advanced",
+                          "baseName": "进阶-Advanced",
+                          "nodes": {
+                            "dataType": "Map",
+                            "value": [
+                              [
+                                "class-and-interfaces.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\class-and-interfaces.md",
+                                  "name": "class-and-interfaces",
+                                  "baseName": "class-and-interfaces.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977483,
+                                    "modifyTime": 1634915977483,
+                                    "byteSize": 0,
+                                    "name": "class-and-interfaces.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "class.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\class.md",
+                                  "name": "class",
+                                  "baseName": "class.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977483,
+                                    "modifyTime": 1634915977483,
+                                    "byteSize": 0,
+                                    "name": "class.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "declaration-merging.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\declaration-merging.md",
+                                  "name": "declaration-merging",
+                                  "baseName": "declaration-merging.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977483,
+                                    "modifyTime": 1634915977483,
+                                    "byteSize": 0,
+                                    "name": "declaration-merging.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "enum.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\enum.md",
+                                  "name": "enum",
+                                  "baseName": "enum.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977483,
+                                    "modifyTime": 1634915977483,
+                                    "byteSize": 0,
+                                    "name": "enum.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "further-reading.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\further-reading.md",
+                                  "name": "further-reading",
+                                  "baseName": "further-reading.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977484,
+                                    "modifyTime": 1634915977484,
+                                    "byteSize": 0,
+                                    "name": "further-reading.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "generics.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\generics.md",
+                                  "name": "generics",
+                                  "baseName": "generics.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977484,
+                                    "modifyTime": 1634915977484,
+                                    "byteSize": 0,
+                                    "name": "generics.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "README.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\README.md",
+                                  "name": "README",
+                                  "baseName": "README.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977484,
+                                    "modifyTime": 1634915977484,
+                                    "byteSize": 0,
+                                    "name": "README.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "string-literal-types.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\string-literal-types.md",
+                                  "name": "string-literal-types",
+                                  "baseName": "string-literal-types.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977484,
+                                    "modifyTime": 1634915977484,
+                                    "byteSize": 0,
+                                    "name": "string-literal-types.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "tuple.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\tuple.md",
+                                  "name": "tuple",
+                                  "baseName": "tuple.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977484,
+                                    "modifyTime": 1634915977484,
+                                    "byteSize": 0,
+                                    "name": "tuple.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ],
+                              [
+                                "type-aliases.md",
+                                {
+                                  "path": "D:\\dev\\AllNote\\Computer Science\\Language\\typescript\\进阶-Advanced\\type-aliases.md",
+                                  "name": "type-aliases",
+                                  "baseName": "type-aliases.md",
+                                  "nodes": null,
+                                  "level": 4,
+                                  "isFolder": false,
+                                  "isExpand": false,
+                                  "element": {},
+                                  "file": {
+                                    "type": 0,
+                                    "createTime": 1634915977485,
+                                    "modifyTime": 1634915977485,
+                                    "byteSize": 0,
+                                    "name": "type-aliases.md",
+                                    "plainText": ""
+                                  },
+                                  "textElement": {}
+                                }
+                              ]
+                            ]
+                          },
+                          "level": 3,
+                          "isFolder": true,
+                          "isExpand": false,
+                          "element": {},
+                          "file": null,
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ]
+            ]
+          },
+          "level": 1,
+          "isFolder": true,
+          "isExpand": false,
+          "element": {},
+          "file": null,
+          "textElement": {}
+        }
+      ],
+      [
+        "Operating System",
+        {
+          "path": "D:\\dev\\AllNote\\Computer Science\\Operating System",
+          "name": "Operating System",
+          "baseName": "Operating System",
+          "nodes": {
+            "dataType": "Map",
+            "value": [
+              [
+                "Git",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Git",
+                  "name": "Git",
+                  "baseName": "Git",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "commands.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Git\\commands.md",
+                          "name": "commands",
+                          "baseName": "commands.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977485,
+                            "modifyTime": 1634915977485,
+                            "byteSize": 0,
+                            "name": "commands.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "Linux",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Linux",
+                  "name": "Linux",
+                  "baseName": "Linux",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "commands.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Linux\\commands.md",
+                          "name": "commands",
+                          "baseName": "commands.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977485,
+                            "modifyTime": 1634915977485,
+                            "byteSize": 0,
+                            "name": "commands.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ],
+              [
+                "Windows",
+                {
+                  "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Windows",
+                  "name": "Windows",
+                  "baseName": "Windows",
+                  "nodes": {
+                    "dataType": "Map",
+                    "value": [
+                      [
+                        "commands.md",
+                        {
+                          "path": "D:\\dev\\AllNote\\Computer Science\\Operating System\\Windows\\commands.md",
+                          "name": "commands",
+                          "baseName": "commands.md",
+                          "nodes": null,
+                          "level": 3,
+                          "isFolder": false,
+                          "isExpand": false,
+                          "element": {},
+                          "file": {
+                            "type": 0,
+                            "createTime": 1634915977486,
+                            "modifyTime": 1634915977486,
+                            "byteSize": 0,
+                            "name": "commands.md",
+                            "plainText": ""
+                          },
+                          "textElement": {}
+                        }
+                      ]
+                    ]
+                  },
+                  "level": 2,
+                  "isFolder": true,
+                  "isExpand": false,
+                  "element": {},
+                  "file": null,
+                  "textElement": {}
+                }
+              ]
+            ]
+          },
+          "level": 1,
+          "isFolder": true,
+          "isExpand": false,
+          "element": {},
+          "file": null,
+          "textElement": {}
+        }
+      ],
+      [
+        "Project",
+        {
+          "path": "D:\\dev\\AllNote\\Computer Science\\Project",
+          "name": "Project",
+          "baseName": "Project",
+          "nodes": {
+            "dataType": "Map",
+            "value": []
+          },
+          "level": 1,
+          "isFolder": true,
+          "isExpand": false,
+          "element": {},
+          "file": null,
+          "textElement": {}
+        }
+      ]
+    ]
+  },
+  "level": 0,
+  "isFolder": true,
+  "isExpand": false,
+  "element": {},
+  "file": null,
+  "textElement": {}
+}

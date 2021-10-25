@@ -1,4 +1,4 @@
-# Propositional Logic
+
 
 
 
@@ -160,7 +160,7 @@ Example:
 
 3. I did not do all my chores
 
-## Propositions
+## Def - Propositions
 
 ---
 
@@ -338,79 +338,6 @@ The meaning of “fast” is imprecise - fast compared to what? A more precise d
 * All other connectives are **<u>binary connectives</u>** (they require two propositions which are joined by the connective).
 * The binary connectives ∨, ∧, ↔ are **<u>symmetric</u>**, in the sense that the order of the two propositions joined by the connective does not affect the truth value of the resulting propositions.
 * The connective $→$ is **<u>not</u> <u>symmetric</u>**: $p → q$ and $q → p$ have different truth values.
-
-## Practice Quiz 1
-
-**Question 1** (6 points)
-
-Select each item that represents a proposition.
-
-Question 1 options:
-
-| ✔    | I voted for Justin Trudeau.                     |
-| ---- | ----------------------------------------------- |
-|      | Is this sentence a proposition?                 |
-|      | Tell me whether this sentence is a proposition. |
-| ✔    | This sentence is not a proposition.             |
-| ✔    | Today is Monday.                                |
-|      | Person man woman camera TV.                     |
-
-
-
-| [![img](https://s.brightspace.com/lib/bsi/20.21.8-234/images/tier1/arrow-collapse.svg)Hide hint for Question 1](javascript://) |      |
-| ------------------------------------------------------------ | ---- |
-| Remember: a proposition must have a value of either true or false.However, one does NOT need to know which case holds. |      |
-
-**Question 2** (6 points)
-
-Select each atomic proposition.
-
-|      | I don't sing.                              |
-| ---- | ------------------------------------------ |
-| ✔    | I sing.                                    |
-|      | I sing and I dance.                        |
-|      | I sing unless I dance.                     |
-| ✔    | I dance ballet.                            |
-|      | I dance ballet if and only if I tap-dance. |
-
-| [![img](https://s.brightspace.com/lib/bsi/20.21.8-234/images/tier1/arrow-collapse.svg)Hide hint for Question 2](javascript://) |      |
-| ------------------------------------------------------------ | ---- |
-| Atomic propositions cannot be further decomposed, i.e. they do not contain any proper sub-propositions. |      |
-
-**Question 3** (5 points)
-
-In this question, use these proposition symbols
-
-| p:   | "I will pass the course." |
-| ---- | ------------------------- |
-| q:   | "I study."                |
-
-Select each correct translation for the English sentence:
-
-"I will not pass the course unless I study."
-
-|      | (p ∨ q)     |
-| ---- | ----------- |
-| ✔    | ((¬ p) ∨ q) |
-|      | ((¬ p) ∧ q) |
-| ✔    | (p → q)     |
-|      | (q → p)     |
-
-**Question 4** (3 points)
-
-Take the following meanings for the proposition symbols p, q and r.
-
-| p:   | "Arwen will go to the party."  |
-| ---- | ------------------------------ |
-| q:   | "Deagol will go to the party." |
-| r:   | "Deagol likes Arwen."          |
-
-For each formula below, match it with one of the English statements, or indicate that "No statement above matches the formula."
-
-| $(p ∨ (¬ r))$     | (No statement above matches the formula.)                    |
-| ----------------- | ------------------------------------------------------------ |
-| $((¬ p) → q)$     | Deagol will go to the party unless Arwen goes to the party.  |
-| $((¬ r) → (¬ q))$ | If Deagol does not like Arwen, then Deagol will not go to the party. |
 
 ## Marked Quiz 1
 
