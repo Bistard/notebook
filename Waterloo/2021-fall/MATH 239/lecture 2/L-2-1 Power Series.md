@@ -16,7 +16,7 @@
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211007154814775.png" alt="image-20211007154814775" style="zoom:50%;" />
 
- <img src="D:\dev\AllNote\.mdnote\assets\image-20211007155115104.png" alt="image-20211007155115104" style="zoom:50%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211007155115104.png" alt="image-20211007155115104" style="zoom:50%;" />
 
 ## Inverse
 

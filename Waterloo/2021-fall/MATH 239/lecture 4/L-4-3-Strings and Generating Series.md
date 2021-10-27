@@ -1,6 +1,6 @@
 # Introduction Example
 
- <img src="D:\dev\AllNote\.mdnote\assets\image-20211007180331510.png" alt="image-20211007180331510" style="zoom:50%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211007180331510.png" alt="image-20211007180331510" style="zoom:50%;"/>
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211007180459609.png" alt="image-20211007180459609" style="zoom:50%;" />
 
