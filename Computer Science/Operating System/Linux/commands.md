@@ -25,8 +25,10 @@ mv /path/to/source /path/to/destination
 # rename file/directory
 mv /path/to/old_name.md /path/to/new_name.md
 
-# copy file/directory
+# copy file
 cp /path/to/be/copied /path/to/destination
+# copy directory
+cp  /path/to/be/copied /path/to/destination
 ```
 
 ## Library
@@ -58,7 +60,12 @@ scp -r /path/to/folder root@IP:/path/to/destination
 # memory leak check using valgrind
 valgrind --tool=memcheck --show-reachable=yes --leak-check=full --show-leak-kinds=all --track-origins=yes -s PATH/TO/TEST/FILE 
 
-
+# give full permissions to directory
+# `a` means all users 
+# `+` means add the following rights
+# `rwx` means Read, Write and eXecute respectively
+sudo chmod a+rwx /path/to/directory
+sudo chmod a+rwx /path/to/directory
 ```
 
 ## Process
