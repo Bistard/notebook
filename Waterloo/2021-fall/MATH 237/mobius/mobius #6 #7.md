@@ -2,7 +2,7 @@
 
 # Q1
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211022162951784.png" alt="image-20211022162951784" style="zoom:50%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211022162951784.png" alt="image-20211022162951784" style="zoom:100%;" />
 
 
 

@@ -2,11 +2,11 @@
 
 # Q1
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211103142051493.png" alt="image-20211103142051493" style="zoom:50%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211103142051493.png" alt="image-20211103142051493" style="zoom:90%;" />
 
 # Q2
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211103142110257.png" alt="image-20211103142110257" style="zoom:80%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211103142110257.png" alt="image-20211103142110257" style="zoom:100%;" />
 
 # Q3
 

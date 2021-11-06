@@ -145,6 +145,11 @@ $$
 $$
 
 $$
+\left. \frac{\partial f}{\partial x} \right|_{s}
+$$
+
+
+$$
 n \choose k
 $$
 
