@@ -28,6 +28,7 @@ new (addr) TYPE;
 
 - building a `type` object at location `addr`.
 - does not allocate memory.
+- `noexcept`.
 
 # 重载class的operator new/delete
 

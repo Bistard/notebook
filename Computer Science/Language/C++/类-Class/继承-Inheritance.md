@@ -28,10 +28,7 @@
 现在我们来创建一个类名叫ChineseChef并继承Chef类:
 
 ```cpp
-    1 class ChineseChef: public Chef 
-    {
-
-    }
+class ChineseChef: public Chef {}
 ```
 
 因为ChineseChef在派生列表中使用了public关键词, 因此我们完全可以把ChineseChef当作Chef类来使用 (因为Chef类中所有成员都定义在public后面, 所以我们的ChineseChef使用了public访问说明符继承之后就可以使用所有的Chef类的成员).
@@ -43,10 +40,10 @@
 接着定义一下ChineseChef类的构造函数, 我们将name参数传入了Chef父类, 由Chef类的构造函数负责初始化这些数据 (相当于调用了一次Chef的构造函数):
 
 ```cpp
-    1 ChineseChef(string name, string country): Chef(name){
-    2     this->country = country;
-    3     cout << "Im a " << country << " chef." << endl;
-    4 }
+ChineseChef(string name, string country): Chef(name) {
+	this->country = country;
+	cout << "Im a " << country << " chef." << endl;
+}
 ```
 
 # 案例 - Example

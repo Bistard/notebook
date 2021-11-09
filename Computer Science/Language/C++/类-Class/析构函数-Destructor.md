@@ -43,9 +43,38 @@ class Human {
 
 当一个对象 (Object) 被摧毁的时候, 以下是四个步骤:
 
-* Constructor body runs
+* destructor body runs
 * Field deconstructor in declaration order (field dector called for which are objects)
-* (later)
+* superclass part is destructed
 * Space deallocated
 
 和初始化对象过程4个步骤一一镜像对应.
+
+## destructor调用顺序
+
+> <u>First constructed, last destructed.</u>
+
+考虑以下代码, destructor的运行顺序为: `~derived, ~local1(), ~local0(), ~member1(), ~member0(), ~base1(), ~base0()`.
+
+```cpp
+struct base0 { ~base0(); };
+struct base1 { ~base1(); };
+struct member0 { ~member0(); };
+struct member1 { ~member1(); };
+struct local0 { ~local0(); };
+struct local1 { ~local1(); };
+struct derived: base0, base1 {
+  member0 m0_;
+  member1 m1_;
+  ~derived() {
+    local0 l0;
+    local1 l1;
+  }
+}
+void userCode() {
+  derived d;
+}
+```
+
+# 主动调用析构函数
+

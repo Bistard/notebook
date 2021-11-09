@@ -7,7 +7,7 @@
 |                                                              | review WA02 solution                                         |                                              |
 |                                                              | ✔[week7 reading - unit 9 - Critical Points](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881429/View) |                                              |
 |                                                              | ✔MA09<br />✔Q1-Q4<br />✔Q5-Q9                                | Friday, November 5, 2021 at 5:00 PM          |
-|                                                              | WA03 (✍Q1/Q2, Q3/Q4, Q5)                                     | Monday, November 8, 2021 at 6:00 PM          |
+|                                                              | ✍WA03                                                        | Monday, November 8, 2021 at 6:00 PM          |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                              |
 |                                                              | review A01 solutions                                         | important, do not forget                     |
 |                                                              | review A02 solutions                                         |                                              |
@@ -25,21 +25,20 @@
 |                                                              | practice quizes                                              |                                              |
 |                                                              | A04                                                          | Thur, Nov 11, 12:00 PM                       |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca  |
-|                                                              | lecs (✍Oct 19, ✍Oct 21, ✍Oct 26, Oct 28, Nov 02)             |                                              |
+|                                                              | lecs (✔Oct 19, ✍Oct 21, ✍Oct 26, Oct 28, Nov 02)             |                                              |
 |                                                              | unfinished tutorial                                          |                                              |
 |                                                              | ✔quiz #7                                                     | Due on Nov 5, 2021 5:00 PM                   |
-|                                                              | A03 due date 1                                               |                                              |
-|                                                              | A03 due date 2                                               |                                              |
+|                                                              | A03 due date 1 (✔Q1, ✍Q4, ✍Q5 test suite)                    | Tuesday, November 9, 5pm                     |
+|                                                              | quiz #8                                                      | Friday, November 12th, at 5:00PM             |
+|                                                              | A03 due date 2                                               | Friday, November 19, 5pm                     |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                              |
 |                                                              | 🔢3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                              |
-|                                                              | 🔢week9-10 Quiz                                               | Tuesday, November 9, 2021                    |
+|                                                              | ✍week9-10 Quiz                                               | Tuesday, November 9, 2021                    |
 |                                                              | [Connect with your group of three or four to discuss the real-world application of the Hall's intercultural framework](https://learn.uwaterloo.ca/d2l/le/content/726790/viewContent/4029209/View) |                                              |
 | **PD1**                                                      |                                                              |                                              |
-|                                                              | 2nd job posting                                              | Oct 26th at 9:00 AM                          |
-|                                                              | interviews begin                                             | Oct 22nd until the rank/match on Nov 4th     |
 |                                                              | apply for coop work-permit                                   |                                              |
 |                                                              | ✔Unit 6 exercise: EQ and Workplace Etiquette (10%)           | Tuesday, November 2nd at 11:55 PM            |
-|                                                              | 🔢Unit 7: Protect Your Rights (5%) assignment                 | Tuesday, November 9th at 11:55 PM            |
+|                                                              | ✍Unit 7: Protect Your Rights (5%) assignment                 | Tuesday, November 9th at 11:55 PM            |
 |                                                              | Assignment 8: Pulling It All Together                        | Tuesday, November 16, 2021 at 11:55 PM (20%) |
 | **DWZQ-coop**                                                |                                                              |                                              |
 | #1                                                           | ✔compilation                                                 |                                              |
@@ -75,6 +74,7 @@
 |                                                              | 写成一个库 (.so), 需要开放多个API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                              |
 |                                                              | 然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                              |
 |                                                              | 发送rsp给listeners                                           |                                              |
+|                                                              | exception safe                                               |                                              |
 |                                                              | 最终检测                                                     |                                              |
 | **MarkdownNote**                                             |                                                              |                                              |
 |                                                              | architecture explanation.md                                  |                                              |

@@ -70,13 +70,10 @@
 
 当一个对象 (Object) 被创建的时候, 以下是四个步骤:
 
-* Space
-   allocated
-* (later)
-* Field
-   constructor in declaration order (field ctor called for which are objects)
-* Constructor
-   body runs
+* Space allocated
+* superclass part is constructed
+* Field constructor in declaration order (field ctor called for which are objects)
+* Constructor body runs
 
 # 多个构造函数-Mutiple Constructors
 
