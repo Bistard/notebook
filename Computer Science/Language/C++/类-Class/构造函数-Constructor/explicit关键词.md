@@ -1,12 +1,11 @@
-# 现象-Behaviour
+# 表现-Behaviour
 
 > The compiler is allowed to make one implicit conversion to resolve the parameters to a function. What this means is that the compiler can use constructors callable with a **single parameter** to convert from one type to another in order to get the right type for a parameter.
 
 Here's where the `DoBar` function is called:
 
 ```cpp
-int main ()
-{
+int main () {
   DoBar (42);
 }
 ```
@@ -14,8 +13,7 @@ int main ()
 Here's a simple function that takes a `Foo` object:
 
 ```cpp
-void DoBar (Foo foo)
-{
+void DoBar (Foo foo) {
   int i = foo.GetFoo ();
 }
 ```
@@ -23,8 +21,7 @@ void DoBar (Foo foo)
 Here's an example class with a constructor that can be used for implicit conversions:
 
 ```cpp
-class Foo
-{
+class Foo {
 public:
   // single parameter constructor, can be used as an implicit conversion
   Foo (int foo) : m_foo (foo) {}
@@ -45,8 +42,7 @@ Prefixing the `explicit` keyword to the constructor prevents the compiler from u
 Given the example as below:
 
 ```cpp
-class Foo
-{
+class Foo {
 public:
   // CANNOT be used as an implicit conversion
   explicit Foo (int foo) : m_foo (foo) {}
