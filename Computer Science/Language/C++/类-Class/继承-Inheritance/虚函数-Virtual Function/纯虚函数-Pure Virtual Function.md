@@ -8,12 +8,12 @@ public:
     virtual float fees() const = 0; // called as a pure virtual method (subclass must override this method)
 };
 
-class RegularStudent : public Student {
+class RegularStudent : public Student { // concrete class
 public:
     virtual float fees() const override {}
 };
 
-class CoOpStudent : public Student {
+class CoOpStudent : public Student { // concrete class
 public:
     virtual float fees() const override {}
 };
@@ -35,3 +35,5 @@ Student *s = new RegularStudent {};
 
 * Used to organize concrete subclasses (<u>a way to describe the relationship between concrete classes</u>)
 * can contain common fields, methods, default implementation.
+
+ 
