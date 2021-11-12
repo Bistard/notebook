@@ -2,7 +2,7 @@
 
 ![image-20211103201340404](D:\dev\AllNote\.mdnote\assets\image-20211103201340404.png)
 
-# Regular Graphs	
+# Regular Graphs
 
 ![image-20211103201403920](D:\dev\AllNote\.mdnote\assets\image-20211103201403920.png)
 

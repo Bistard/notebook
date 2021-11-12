@@ -20,7 +20,7 @@
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211025143952707.png" alt="image-20211025143952707" style="zoom:50%;" />
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211025143110871.png" alt="image-20211025143110871" style="zoom:50%;" />
+<img src="D:\dev\AllNote\.mdnote\assets\image-20211025143110871.png" alt="image-20211025143110871" style="zoom:67%;" />
 
 ## Examples
 
@@ -56,7 +56,7 @@
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211025145310379.png" alt="image-20211025145310379" style="zoom:50%;" />
 
-## #1 - Set-ofSupport Strategy
+## #1 - Set of Support Strategy
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211025150145498.png" alt="image-20211025150145498" style="zoom:50%;" />
 
