@@ -60,7 +60,7 @@
 |                                                              | 然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                              |
 |                                                              | 发送rsp给listeners                                           |                                              |
 |                                                              | exception safe                                               |                                              |
-|                                                              | 最终检测                                                     |                                              |
+|                                                              | 最终检测                                                     | ssh root@10.142.13.7                         |
 | **MarkdownNote**                                             |                                                              |                                              |
 |                                                              | architecture explanation.md                                  |                                              |
 |                                                              | UML && 时序图 - DI && FileService                            |                                              |
