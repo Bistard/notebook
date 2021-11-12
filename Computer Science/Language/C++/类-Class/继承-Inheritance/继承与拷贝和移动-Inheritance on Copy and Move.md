@@ -19,14 +19,14 @@ public:
     {}
     // copy operator
     Textbook &operator=(const Textbook &other) {
-        if (&other == this) return;
+        if (&other == this) return *this;
         Book::operator=(other); // base class:    copy assignment operator
         topic = other.topic;    // derived class: member initialization
         return *this;
     }
     // move operator
     Textbook &operator=(Textbook &&other) {
-        if (&other == this) return;
+        if (&other == this) return *this;
         Book::operator=(std::move(other)); // base class:    copy assignment operator
         topic = std::move(other.topic);    // derived class: member initialization
         return *this;
@@ -101,7 +101,7 @@ class Textbook : public AbstractBook {
 public:
     Textbook &operator=(const Textbook &other) // non-virtual
     {
-		if (&other == this) return;
+		if (&other == this) return *this;
         AbstractBook::operator=(other);
         topic = other.topic;
         return *this;
@@ -116,4 +116,29 @@ int main() {
     *b1 = *b2; // (3) 因为是copy assignment operator protected, 因此防止了此类事件的发生, 不允许partial assignment
 }
 ```
+
+## 解决方案 - 2
+
+我们重新考虑`(2)`处的代码, 并利用`dynamic_cast<T>`帮助我们解决问题
+
+```cpp
+class Textbook : public Book {
+public:
+    Textbook &operator=(const Book &other) override {
+        const Text & otherText = dynamic_cast<Const Textbook &>(other); // (4)
+        if (&otherText == this) return *this;
+        Book::operator=(other);
+        topic = other.topic;
+        return *this;
+    }
+};
+```
+
+**注意**, 这种写法在`(4)`处的时候, 如果`other`不是`const TextBook &`, 那么就会发生throw. 问题将抛给caller去解决. 
+
+
+
+## 小结
+
+解决防范1的好处是, 可以直接在compile time去避免发生类似的问题. 解决方法2的好处是, 可以通过compile time, 但是runtime可能会出现throw. 至于权衡利弊, 就要交给给你去考量了.
 
