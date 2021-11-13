@@ -4,24 +4,24 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- |
 | [**MATH 237**](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881420/View) |                                                              |                                              |
 |                                                              | ✍[week 8 reading - Unit 10 - Optimization](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881430/View) |                                              |
-|                                                              | ✍MA10                                                        | Friday, November 12, 2021 at 5:00 PM         |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                              |
 |                                                              | presentation preparing                                       | Nov 14, 2021 9:00 PM (中国时间)              |
 |                                                              | lecture vds                                                  |                                              |
 |                                                              | tutorial 10                                                  | Nov 17, 2021 9:30 PM (中国时间)              |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                              |
-|                                                              | ✈week 07 - lectures (✔logic10, ✔logic11, logic12)            |                                              |
+|                                                              | ✈week 07 - lectures (✔logic10, ✔logic11, logic12, logic 13, logic 14) |                                              |
 |                                                              | ✈practice quizes                                             |                                              |
 |                                                              | Marked Quiz 4                                                | Due on Nov 17, 2021 12:00 PM                 |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca  |
-|                                                              | lecs (✔Oct 19, ✔Oct 21, ✔Oct 26, ✔Oct 28, ✍Nov 02, Nov 04, Nov 09, Nov11) |                                              |
+|                                                              | lecs (✔Oct 19, ✔Oct 21, ✔Oct 26, ✔Oct 28, ✔Nov 02, ✍Nov 04, ✍Nov 09, ✍Nov11) |                                              |
 |                                                              | unfinished tutorial                                          |                                              |
-|                                                              | ✍quiz #8                                                     | Friday, November 12th, at 5:00PM             |
+|                                                              | ✔quiz #8                                                     | Friday, November 12th, at 5:00PM             |
 |                                                              | ✍A03 due date 2                                              | Friday, November 19, 5pm                     |
+|                                                              | quiz #9                                                      | Nov 19, 2021 5:00 PM                         |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                              |
-|                                                              | 3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                              |
+|                                                              | ✍3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                              |
 |                                                              | [Connect with your group of three or four to discuss the real-world application of the Hall's intercultural framework](https://learn.uwaterloo.ca/d2l/le/content/726790/viewContent/4029209/View) |                                              |
-|                                                              | ✍Case study conflict analysis                                | Due November 12 at 11:59 PM                  |
+|                                                              | ✔Case study conflict analysis                                | Due November 12 at 11:59 PM                  |
 | **PD1**                                                      |                                                              |                                              |
 |                                                              | apply for coop work-permit                                   |                                              |
 |                                                              | Assignment 8: Pulling It All Together                        | Tuesday, November 16, 2021 at 11:55 PM (20%) |
