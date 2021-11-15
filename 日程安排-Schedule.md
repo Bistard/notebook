@@ -3,20 +3,23 @@
 | **Subject**                                                  | **Description**                                              | **Deadline**                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- |
 | [**MATH 237**](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881420/View) |                                                              |                                              |
-|                                                              | ✍[week 8 reading - Unit 10 - Optimization](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881430/View) |                                              |
+|                                                              | [week 8 reading - Unit 10 - Optimization](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881430/View) |                                              |
+|                                                              | week 9 reading -                                             |                                              |
+|                                                              | mobius                                                       |                                              |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                              |
-|                                                              | presentation preparing                                       | Nov 14, 2021 9:00 PM (中国时间)              |
+|                                                              | ✍[presentation preparing](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)         |
 |                                                              | lecture vds                                                  |                                              |
 |                                                              | tutorial 10                                                  | Nov 17, 2021 9:30 PM (中国时间)              |
+|                                                              | A06 (✍Q1, Q2, Q3)                                            | Thursday November 18 at 11am                 |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                              |
 |                                                              | ✈week 07 - lectures (✔logic10, ✔logic11, logic12, logic 13, logic 14) |                                              |
 |                                                              | ✈practice quizes                                             |                                              |
 |                                                              | Marked Quiz 4                                                | Due on Nov 17, 2021 12:00 PM                 |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca  |
-|                                                              | lecs (✔Oct 19, ✔Oct 21, ✔Oct 26, ✔Oct 28, ✔Nov 02, ✍Nov 04, ✍Nov 09, ✍Nov11) |                                              |
 |                                                              | unfinished tutorial                                          |                                              |
 |                                                              | ✔quiz #8                                                     | Friday, November 12th, at 5:00PM             |
-|                                                              | ✍A03 due date 2                                              | Friday, November 19, 5pm                     |
+|                                                              | resubmit Q2/Q3 (style issue)                                 |                                              |
+|                                                              | A03 due date 2 (✔Q2, ✔Q3, ✍Q4, Q5, Q6)                       | Friday, November 19, 5pm                     |
 |                                                              | quiz #9                                                      | Nov 19, 2021 5:00 PM                         |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                              |
 |                                                              | ✍3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                              |
@@ -55,13 +58,17 @@
 |                                                              | ✔发送对应的mysql语句                                         |                                              |
 |                                                              | ✔获得mysql的response                                         |                                              |
 |                                                              | ✔设计protobuf协议: 用来传输接受其他protobuf协议的协议        |                                              |
-|                                                              | cd /root/src/midtrade/MidTrade0902/depends/a5mock            |                                              |
-|                                                              | 解决缺少库: ❓xml, ❌log, ✔a5, ❌dwmysql, ✔protobuf             |                                              |
-|                                                              | 记笔记:                                                      |                                              |
+|                                                              | ✔cd /root/src/midtrade/MidTrade0902/depends/a5mock           |                                              |
+|                                                              | ✔解决缺少库: ❓xml, ❌log, ✔a5, ❌dwmysql, ✔protobuf            |                                              |
+|                                                              | ✔复制了: common/log, common/dwmysql                          |                                              |
+|                                                              | 记链接库的笔记                                               |                                              |
 |                                                              | 写成一个库 (.so), 需要开放多个API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                              |
+|                                                              | 测试.so能否正常work                                          |                                              |
+|                                                              | ✍线程安全queue                                               |                                              |
 |                                                              | 然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                              |
 |                                                              | 发送rsp给listeners                                           |                                              |
 |                                                              | exception safe                                               |                                              |
+|                                                              | 重修以下a5mySQLTable (作为一个服务, 只会一次性update一次mysql) |                                              |
 |                                                              | 最终检测                                                     | ssh root@10.142.13.7                         |
 | **MarkdownNote**                                             |                                                              |                                              |
 |                                                              | architecture explanation.md                                  |                                              |

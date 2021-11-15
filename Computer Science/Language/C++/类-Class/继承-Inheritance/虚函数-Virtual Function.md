@@ -95,7 +95,7 @@ int main() {
 }
 ```
 
-## 解决方案 - virtual destructor
+## 解决方案 - Virtual Destructor
 
 ```cpp
 class X {

@@ -28,7 +28,7 @@ mv /path/to/old_name.md /path/to/new_name.md
 # copy file
 cp /path/to/be/copied /path/to/destination
 # copy directory
-cp  /path/to/be/copied /path/to/destination
+cp - /path/to/be/copied /path/to/destination
 ```
 
 ## Library
@@ -112,5 +112,14 @@ ifconfig
 
 # using SSH
 ssh root@10.141.29.15
+```
+
+# Vim
+
+## recovery a swap file
+
+```bash
+# remove the hidden file `.FILE_NAME.swp`
+rm -rf ./.FILE_NAME.swp
 ```
 
