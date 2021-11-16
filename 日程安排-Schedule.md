@@ -7,19 +7,20 @@
 |                                                              | week 9 reading -                                             |                                              |
 |                                                              | mobius                                                       |                                              |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                              |
-|                                                              | ✍[presentation preparing](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)         |
+|                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)         |
 |                                                              | lecture vds                                                  |                                              |
 |                                                              | tutorial 10                                                  | Nov 17, 2021 9:30 PM (中国时间)              |
 |                                                              | A06 (✍Q1, Q2, Q3)                                            | Thursday November 18 at 11am                 |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                              |
-|                                                              | ✈week 07 - lectures (✔logic10, ✔logic11, logic12, logic 13, logic 14) |                                              |
+|                                                              | ✈week 07 - lectures (✔logic10, ✔logic11, logic12, logic 13, logic 14, ...) |                                              |
 |                                                              | ✈practice quizes                                             |                                              |
 |                                                              | Marked Quiz 4                                                | Due on Nov 17, 2021 12:00 PM                 |
+|                                                              |                                                              |                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca  |
 |                                                              | unfinished tutorial                                          |                                              |
 |                                                              | ✔quiz #8                                                     | Friday, November 12th, at 5:00PM             |
 |                                                              | resubmit Q2/Q3 (style issue)                                 |                                              |
-|                                                              | A03 due date 2 (✔Q2, ✔Q3, ✍Q4, Q5, Q6)                       | Friday, November 19, 5pm                     |
+|                                                              | A03 due date 2 (✔Q2, ✔Q3 (需要更多的test), ✔Q4, Q5, Q6)      | Friday, November 19, 5pm                     |
 |                                                              | quiz #9                                                      | Nov 19, 2021 5:00 PM                         |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                              |
 |                                                              | ✍3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                              |
