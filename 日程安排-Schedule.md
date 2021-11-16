@@ -63,13 +63,13 @@
 |                                                              | ✔解决缺少库: ❓xml, ❌log, ✔a5, ❌dwmysql, ✔protobuf            |                                              |
 |                                                              | ✔复制了: common/log, common/dwmysql                          |                                              |
 |                                                              | 记链接库的笔记                                               |                                              |
-|                                                              | 写成一个库 (.so), 需要开放多个API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                              |
-|                                                              | 测试.so能否正常work                                          |                                              |
-|                                                              | ✍线程安全queue                                               |                                              |
-|                                                              | 然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                              |
-|                                                              | 发送rsp给listeners                                           |                                              |
-|                                                              | exception safe                                               |                                              |
-|                                                              | 重修以下a5mySQLTable (作为一个服务, 只会一次性update一次mysql) |                                              |
+|                                                              | ✍写成一个库 (.so), 需要开放类似于A5的API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                              |
+|                                                              | ✍测试.so能否正常work                                         |                                              |
+|                                                              | ✔线程安全queue                                               |                                              |
+|                                                              | ✔然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                              |
+|                                                              | ✔发送rsp给listeners                                          |                                              |
+|                                                              | ❓exception safe                                              |                                              |
+|                                                              | 重修以下a5mySQLTable (单纯的作为一个服务, 只会一次性update一次mysql) |                                              |
 |                                                              | 最终检测                                                     | ssh root@10.142.13.7                         |
 | **MarkdownNote**                                             |                                                              |                                              |
 |                                                              | architecture explanation.md                                  |                                              |
