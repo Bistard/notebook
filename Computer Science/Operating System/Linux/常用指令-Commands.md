@@ -5,6 +5,9 @@
 ## Basic Commands
 
 ```bash
+# download package
+sudo apt-get install packge_
+
 # check if the command is installed
 command -v [CMD_NAME] 
 
@@ -64,7 +67,7 @@ valgrind --tool=memcheck --show-reachable=yes --leak-check=full --show-leak-kind
 # `a` means all users 
 # `+` means add the following rights
 # `rwx` means Read, Write and eXecute respectively
-sudo chmod a+rwx /path/to/directory
+sudo chmod a+rwx /path/to/file
 sudo chmod a+rwx /path/to/directory
 ```
 

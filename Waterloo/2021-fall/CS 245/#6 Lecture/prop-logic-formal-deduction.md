@@ -176,7 +176,7 @@
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211020161416912.png" alt="image-20211020161416912" style="zoom:50%;" />
 
-# Others
+# Consistency and Satisfiability
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211020161513865.png" alt="image-20211020161513865" style="zoom:50%;" />
 

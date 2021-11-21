@@ -56,8 +56,7 @@ int main(int argc, char* argv[]) {
 * <u>mvoe the smart pointer into the function argument.</u>
 
 ```cpp
-void MyFunc(unique_ptr<A> &&arg)
-{
+void MyFunc(unique_ptr<A> &&arg) {
     cout << arg->GetVal() << endl;
 }
 

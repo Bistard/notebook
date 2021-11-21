@@ -24,6 +24,7 @@ public:
         topic = other.topic;    // derived class: member initialization
         return *this;
     }
+    
     // move operator
     Textbook &operator=(Textbook &&other) {
         if (&other == this) return *this;
@@ -113,6 +114,8 @@ public:
 
 ```cpp
 int main() {
+    Book *b1 = new Textbook {};
+    Book *b2 = new Textbook {};
     *b1 = *b2; // (3) 因为是copy assignment operator protected, 因此防止了此类事件的发生, 不允许partial assignment
 }
 ```
