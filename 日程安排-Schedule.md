@@ -3,15 +3,16 @@
 | **Subject**                                                  | **Description**                                              | **Deadline**                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [**MATH 237**](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881420/View) |                                                              |                                                              |
+|                                                              | ✔Unit 9 - Critical Points                                    |                                                              |
 |                                                              | ✔[Unit 10 - Optimization](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881430/View) |                                                              |
-|                                                              | ✍Unit 11 - Coordinate Systems                                |                                                              |
-|                                                              | ✍Unit 12 - Mappings                                          |                                                              |
+|                                                              | ✔Unit 11 - Coordinate Systems                                |                                                              |
+|                                                              | Unit 12 - Mappings                                           |                                                              |
 |                                                              | Unit 13 - Jacobians and Inverse Mappings                     |                                                              |
 |                                                              | mobius Unit 11/12                                            | December 7, 2021 at 5:00 PM                                  |
 |                                                              | mobius Unit 13                                               | December 7, 2021 at 5:00 PM                                  |
-|                                                              | ✍WA 04                                                       | November 22, 2021 at 5:00 PM                                 |
+|                                                              | WA 04 (✔Q1, Q2, Q3, Q4)                                      | November 22, 2021 at 5:00 PM                                 |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
-|                                                              | ✍[presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)                         |
+|                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)                         |
 |                                                              | lecture vds                                                  |                                                              |
 |                                                              | tutorial 11                                                  | Nov 23, 2021 9:30 PM (中国时间)                              |
 |                                                              | A07 （✍Q1,Q2,Q3）                                            | Thursday November 25 at 11am                                 |
