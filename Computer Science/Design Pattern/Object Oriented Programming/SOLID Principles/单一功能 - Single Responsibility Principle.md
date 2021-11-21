@@ -1,0 +1,1 @@
+# 单一功能 - Single Responsibility Principle (SRP)
