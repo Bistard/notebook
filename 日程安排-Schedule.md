@@ -30,8 +30,7 @@
 |                                                              | final - due date 2                                           | Friday, December 14, 5pm                                     |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                                              |
 |                                                              | 3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                                              |
-|                                                              | [Connect with your group of three or four to discuss the real-world application of the Hall's intercultural framework](https://learn.uwaterloo.ca/d2l/le/content/726790/viewContent/4029209/View) |                                                              |
-|                                                              | ✔Case study conflict analysis                                | Due November 12 at 11:59 PM                                  |
+|                                                              | ✍Communicating Online Response Paper                         | Nov 23, 2021 11:59 PM                                        |
 | **PD1**                                                      |                                                              |                                                              |
 |                                                              | apply for coop work-permit                                   |                                                              |
 |                                                              | ✔Assignment 8: Pulling It All Together                       | Tuesday, November 16, 2021 at 11:55 PM (20%)                 |
