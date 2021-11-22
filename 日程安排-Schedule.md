@@ -25,7 +25,7 @@
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca                  |
 |                                                              | A03 more testcases                                           |                                                              |
 |                                                              | ✔A03 due date 2                                              | Friday, November 21, 5pm                                     |
-|                                                              | quiz #10                                                     |                                                              |
+|                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 1                                           |                                                              |
 |                                                              | final - due date 2                                           |                                                              |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                                              |
