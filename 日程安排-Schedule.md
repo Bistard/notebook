@@ -22,8 +22,9 @@
 |                                                              | ✔Marked Quiz 4                                               | Due on Nov 17, 2021 12:00 PM                                 |
 |                                                              | review Marked Quiz 4                                         |                                                              |
 |                                                              | A05                                                          |                                                              |
-| [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca                  |
-|                                                              | ✔A03 due date 2                                              | Friday, November 21, 5pm                                     |
+| [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
+|                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18            |                                                              |
+|                                                              | ✔A03 due date 2                                              | Friday, November 22, 5pm                                     |
 |                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 1 (✍UML, plan of attack)                    | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 2                                           | Friday, December 14, 5pm                                     |

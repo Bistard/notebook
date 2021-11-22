@@ -1,6 +1,4 @@
-# Exception Safety
-
-
+# 异常安全 - Exception Safety
 
 ## Basic Guarantee
 

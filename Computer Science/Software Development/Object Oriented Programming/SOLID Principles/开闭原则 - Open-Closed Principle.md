@@ -1,3 +1,5 @@
+
+
 # 开闭原则 - Open-Close Principle
 
 Open-closed Principle (OCP) states:

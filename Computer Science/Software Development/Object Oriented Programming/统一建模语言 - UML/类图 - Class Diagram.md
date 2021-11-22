@@ -29,13 +29,13 @@ A class notation consists of three parts: class name, class attribute and class 
 
 The name of the class appears in the first partition.
 
-<img src="../../../../.mdnote/assets/image-20211122010322795.png" alt="image-20211122010322795" style="zoom: 33%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122010322795.png" alt="image-20211122010322795" style="zoom: 33%;" />
 
 ## Class Attributes
 
 Attributes are shown in the second partition.
 
-<img src="../../../../.mdnote/assets/image-20211122010506128.png" alt="image-20211122010506128" style="zoom:33%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122010506128.png" alt="image-20211122010506128" style="zoom:33%;" />
 
 * The <u>attribute type</u> is shown after the colon.
 
@@ -43,7 +43,7 @@ Attributes are shown in the second partition.
 
 Operations are shown in the third partition. They are services the class provides.
 
-<img src="../../../../.mdnote/assets/image-20211122010718248.png" alt="image-20211122010718248" style="zoom:33%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122010718248.png" alt="image-20211122010718248" style="zoom:33%;" />
 
 - The return type of a method is shown after the colon at the end of the method signature (rarely used)
 - The return type of method parameters is shown after the colon following the parameter name.
@@ -55,7 +55,7 @@ Operations are shown in the third partition. They are services the class provide
 - `#`表示 `protected`
 - `~`表示 `default in the same packge`
 
-![image-20211122010928079](../../../../.mdnote/assets/image-20211122010928079.png)
+![image-20211122010928079](D:/dev/AllNote/.mdnote/assets/image-20211122010928079.png)
 
 # 类图中的关系 - Class Relationship
 
@@ -68,7 +68,7 @@ Operations are shown in the third partition. They are services the class provide
 * 依赖关系 - Dependency
 * 实现关系 - Implementation
 
-<img src="../../../../.mdnote/assets/image-20211122012030973.png" alt="image-20211122012030973" style="zoom: 67%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122012030973.png" alt="image-20211122012030973" style="zoom: 67%;" />
 
 ## 1 - Inheritance - 泛化关系 - "is-a" relationship
 
@@ -76,9 +76,9 @@ Operations are shown in the third partition. They are services the class provide
 * *An abstract class name is shown in italics*.
 * SubClass1 and SubClass2 are specializations of Super Class.
 
-![image-20211122011928370](../../../../.mdnote/assets/image-20211122011928370.png)
+![image-20211122011928370](D:/dev/AllNote/.mdnote/assets/image-20211122011928370.png)
 
-<img src="../../../../.mdnote/assets/image-20211122011947376.png" alt="image-20211122011947376" style="zoom:60%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122011947376.png" alt="image-20211122011947376" style="zoom:60%;" />
 
 ## 2 - Association - 关联关系
 
@@ -88,7 +88,7 @@ Operations are shown in the third partition. They are services the class provide
 
 单向关联: <u>用一个带箭头的实线表示，箭头指向被关联的对象</u>。
 
-<img src="../../../../.mdnote/assets/image-20211122012619247.png" alt="image-20211122012619247" style="zoom: 67%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122012619247.png" alt="image-20211122012619247" style="zoom: 67%;" />
 
 一个对象可以持有其它对象的数组或者集合。在UML中，通过放置多重性（multipicity）表达式在关联线的末端来表示。多重性表达式可以是一个数字、一段范围或者是它们的组合。多重性允许的表达式示例如下：
 
@@ -105,7 +105,7 @@ Operations are shown in the third partition. They are services the class provide
 
 在UML图中，聚合关系用空心菱形加实线箭头表示，空心菱形在``整体``一方，箭头指向``部分``一方
 
-<img src="../../../../.mdnote/assets/image-20211122013313259.png" alt="image-20211122013313259" style="zoom: 67%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122013313259.png" alt="image-20211122013313259" style="zoom: 67%;" />
 
 ## 4 - Composition - 组合关系 - "owns/contains-a" relationship
 
@@ -115,7 +115,7 @@ Operations are shown in the third partition. They are services the class provide
 
 在UML图中，组合关系用实心菱形加实线箭头表示，实心菱形在整体一方，箭头指向部分一方.
 
-<img src="../../../../.mdnote/assets/image-20211122013601363.png" alt="image-20211122013601363" style="zoom:67%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122013601363.png" alt="image-20211122013601363" style="zoom:67%;" />
 
 ## 5 - Dependency - 依赖关系
 
@@ -123,10 +123,11 @@ Operations are shown in the third partition. They are services the class provide
 
 在UML类图中，依赖关系用一个带虚线的箭头表示，由使用方指向被使用方，表示使用方对象持有被使用方对象的引用。
 
-<img src="../../../../.mdnote/assets/image-20211122013753018.png" alt="image-20211122013753018" style="zoom:67%;" />
+<img src="D:/dev/AllNote/.mdnote/assets/image-20211122013753018.png" alt="image-20211122013753018" style="zoom:67%;" />
 
 依赖关系在Java中的具体代码表现形式为B为A的构造器或方法中的局部变量、方法或构造器的参数、方法的返回值，或者A调用B的静态方法。
 
 # 案例 - Examples
 
-![image-20211122014019239](../../../../.mdnote/assets/image-20211122014019239.png)
+![image-20211122014019239](D:/dev/AllNote/.mdnote/assets/image-20211122014019239.png)
+

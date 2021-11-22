@@ -69,6 +69,11 @@ valgrind --tool=memcheck --show-reachable=yes --leak-check=full --show-leak-kind
 # `rwx` means Read, Write and eXecute respectively
 sudo chmod a+rwx /path/to/file
 sudo chmod a+rwx /path/to/directory
+
+# copy all the contents of given files into one single file
+cat 1.md 2.md 3.md > single.md
+# recursively
+?????
 ```
 
 ## Process
@@ -124,5 +129,14 @@ ssh root@10.141.29.15
 ```bash
 # remove the hidden file `.FILE_NAME.swp`
 rm -rf ./.FILE_NAME.swp
+```
+
+
+
+# WSL2
+
+```cpp
+explorer.exe . // view the current directory by opening the Windows File Explorer
+code .         // view the current directory by opening Visual S
 ```
 
