@@ -23,10 +23,9 @@
 |                                                              | review Marked Quiz 4                                         |                                                              |
 |                                                              | A05                                                          |                                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) |                                                              | ssh -Y s795li@linux.student.cs.uwaterloo.ca                  |
-|                                                              | A03 more testcases                                           |                                                              |
 |                                                              | ✔A03 due date 2                                              | Friday, November 21, 5pm                                     |
 |                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
-|                                                              | final - due date 1                                           | Friday, November 26, 5pm                                     |
+|                                                              | final - due date 1 (✍UML, plan of attack)                    | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 2                                           | Friday, December 14, 5pm                                     |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                                              |
 |                                                              | 3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                                              |

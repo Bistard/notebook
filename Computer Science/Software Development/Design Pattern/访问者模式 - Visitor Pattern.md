@@ -22,7 +22,7 @@
 
 **缺点：** 1、具体元素对访问者公布细节，违反了迪米特原则。 2、具体元素变更比较困难。 3、违反了依赖倒置原则，依赖了具体类，没有依赖抽象。
 
-## 案例 - Example
+## 案例 1 - Example 1
 
 <img src="D:\dev\AllNote\.mdnote\assets\image-20211122143344887.png" alt="image-20211122143344887" style="zoom:67%;" />
 
@@ -57,8 +57,52 @@ class Rock : public Weapon {
 };
 ```
 
+
+
+## 案例 2 - Example 2
+
+这里的案例也用了visitor pattern
+
+* Book -> Enemy
+* BookVisitor -> Weapon
+* accept() -> beStrikeBy()
+* visit() ->strike()
+
+```cpp
+class Book {
+public:
+    virtual void accept(BookVisitor &v) { v.visit(*this); }
+};
+
+class Textbook : public Book {
+	virtual void accept(BookVisitor &v) { v.visit(*this); }
+};
+
+class Comic : public Book {
+	virtual void accept(BookVisitor &v) { v.visit(*this); }
+};
+
+class BookVisitor {
+public:
+	virtual void visit(Book &b) = 0;
+    virtual void visit(Textbook *t) = 0;
+    virtual void visit(Comic *c) = 0;
+};
+
+class Catalogue : public BookVisitor {
+public:
+    map<std::string, int> theCat;
+    void visit(Book &b) overrdie { ++theCat[b.getAuthor()]; }
+    void visit(Textbook &t) overrdie { ++theCat[t.getTopic()]; }
+    void visit(Comic &c) overrdie { ++theCat[c.getHero()]; }
+};
+```
+
+
+
 ---
 
 部分摘抄于
 
 * https://www.runoob.com/design-pattern/visitor-pattern.html
+
