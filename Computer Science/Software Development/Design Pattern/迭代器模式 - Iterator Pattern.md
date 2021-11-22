@@ -99,4 +99,9 @@ public:
 };
 ```
 
+---
+
+部分内容摘抄于
+
+* https://www.runoob.com/design-pattern/iterator-pattern.html
 

@@ -31,3 +31,9 @@ int main() {
 }
 ```
 
+---
+
+部分内容摘抄于
+
+* https://www.runoob.com/design-pattern/singleton-pattern.html
+
