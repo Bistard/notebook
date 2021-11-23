@@ -6,23 +6,22 @@
 |                                                              | ✔Unit 9 - Critical Points                                    |                                                              |
 |                                                              | ✔[Unit 10 - Optimization](https://learn.uwaterloo.ca/d2l/le/content/701924/viewContent/3881430/View) |                                                              |
 |                                                              | ✔Unit 11 - Coordinate Systems                                |                                                              |
-|                                                              | ✍Unit 12 - Mappings                                          |                                                              |
-|                                                              | Unit 13 - Jacobians and Inverse Mappings                     |                                                              |
+|                                                              | ✔Unit 12 - Mappings                                          |                                                              |
+|                                                              | [Unit 13 - Jacobians and Inverse Mappings]()                 |                                                              |
 |                                                              | mobius Unit 11/12                                            | December 7, 2021 at 5:00 PM                                  |
 |                                                              | mobius Unit 13                                               | December 7, 2021 at 5:00 PM                                  |
-|                                                              | WA 04 (✔Q1, ✍Q2, ✍Q3, ✍Q4)                                   | November 22, 2021 at 5:00 PM                                 |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
-|                                                              | ✍[presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | Nov 22, 2021 9:30 AM (周一 中国时间)                         |
+| z                                                            | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
 |                                                              | lecture vds                                                  |                                                              |
 |                                                              | tutorial 11                                                  | Nov 23, 2021 9:30 PM (中国时间)                              |
 |                                                              | A07 （✍Q1,Q2,Q3）                                            | Thursday November 25 at 11am                                 |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                              |
-|                                                              | logic 15, logic 16                                           |                                                              |
+|                                                              | ✍logic 15, ✍logic 16                                         |                                                              |
 |                                                              | practice quizes                                              |                                                              |
 |                                                              | ✔Marked Quiz 4                                               | Due on Nov 17, 2021 12:00 PM                                 |
 |                                                              | review Marked Quiz 4                                         |                                                              |
-|                                                              | A05                                                          |                                                              |
-| [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
+|                                                              | A05 （✍Q1, ✍Q2, Q3, Q4, Q5）                                 |                                                              |
+| [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo<br />.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
 |                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18            |                                                              |
 |                                                              | ✔A03 due date 2                                              | Friday, November 22, 5pm                                     |
 |                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
@@ -68,8 +67,8 @@
 |                                                              | ✔解决缺少库: xml, log, a5, dwmysql, protobuf                 |                                                              |
 |                                                              | ✔复制了: common/log, common/dwmysql                          |                                                              |
 |                                                              | 记链接库的笔记                                               |                                                              |
-|                                                              | ✍写成一个库 (.so), 需要开放类似于A5的API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                                              |
-|                                                              | ✍测试.so能否正常work                                         |                                                              |
+|                                                              | ✔写成一个库 (.so), 需要开放类似于A5的API (参考/root/src/midtrade/MidTrade0902/common/a5) |                                                              |
+|                                                              | ✔测试.so能否正常work                                         |                                                              |
 |                                                              | ✔线程安全queue                                               |                                                              |
 |                                                              | ✔然后开一个额外线程, 专用消耗该队列 (同步), 同时利用async发送rsp给client |                                                              |
 |                                                              | ✔发送rsp给listeners                                          |                                                              |
@@ -78,7 +77,8 @@
 |                                                              | 最终检测                                                     | ssh root@10.142.13.7<br />mysql -u root -p<br />SHOW DATABASES;<br />USE a5mock;<br />SHOW TABLES;<br />SELECT * FROM ``; |
 | **MarkdownNote**                                             |                                                              |                                                              |
 |                                                              | architecture explanation.md                                  |                                                              |
-|                                                              | UML && 时序图 - DI && FileService                            |                                                              |
+|                                                              | UML for DI                                                   |                                                              |
+|                                                              | UML && 时序图 - FileService                                  |                                                              |
 |                                                              | 观察stream如何按chunk读文件                                  |                                                              |
 |                                                              | decode DataBuffer                                            |                                                              |
 |                                                              | 替换/实装service                                             |                                                              |
