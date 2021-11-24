@@ -11,7 +11,7 @@
 |                                                              | mobius Unit 11/12                                            | December 7, 2021 at 5:00 PM                                  |
 |                                                              | mobius Unit 13                                               | December 7, 2021 at 5:00 PM                                  |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
-| z                                                            | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
+|                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
 |                                                              | lecture vds                                                  |                                                              |
 |                                                              | tutorial 11                                                  | Nov 23, 2021 9:30 PM (中国时间)                              |
 |                                                              | A07 （✍Q1,Q2,Q3）                                            | Thursday November 25 at 11am                                 |
@@ -20,16 +20,15 @@
 |                                                              | practice quizes                                              |                                                              |
 |                                                              | ✔Marked Quiz 4                                               | Due on Nov 17, 2021 12:00 PM                                 |
 |                                                              | review Marked Quiz 4                                         |                                                              |
-|                                                              | A05 （✍Q1, ✍Q2, Q3, Q4, Q5）                                 |                                                              |
+|                                                              | A05 （✍Q1, ✍Q2, ✍Q3, ✍Q4, ✍Q5）                              |                                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo<br />.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
 |                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18            |                                                              |
-|                                                              | ✔A03 due date 2                                              | Friday, November 22, 5pm                                     |
 |                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 1 (✍UML, plan of attack)                    | Friday, November 26, 5pm                                     |
 |                                                              | final - due date 2                                           | Friday, December 14, 5pm                                     |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                                              |
 |                                                              | 3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                                              |
-|                                                              | ✍Communicating Online Response Paper                         | Nov 23, 2021 11:59 PM                                        |
+|                                                              | Communicating Online Response Paper                          | Nov 26, 2021 11:59 PM                                        |
 | **PD1**                                                      |                                                              |                                                              |
 |                                                              | apply for coop work-permit                                   |                                                              |
 |                                                              | ✔Assignment 8: Pulling It All Together                       | Tuesday, November 16, 2021 at 11:55 PM (20%)                 |
