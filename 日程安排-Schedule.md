@@ -13,14 +13,14 @@
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
 |                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
 |                                                              | lecture vds                                                  |                                                              |
-|                                                              | tutorial 11                                                  | Nov 23, 2021 9:30 PM (中国时间)                              |
+|                                                              | tutorial 11                                                  | 这周五 早上 10:00 AM (中国时间)                              |
 |                                                              | A07 （✍Q1,Q2,✍Q3）                                           | Thursday November 25 at 11am                                 |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                              |
-|                                                              | ✔logic 15, ✍logic 16a， Logic 16b                            |                                                              |
+|                                                              | ✔logic 15, ✔logic 16a， Logic 16b                            |                                                              |
 |                                                              | practice quizes                                              |                                                              |
 |                                                              | ✔Marked Quiz 4                                               | Due on Nov 17, 2021 12:00 PM                                 |
 |                                                              | review Marked Quiz 4                                         |                                                              |
-|                                                              | A05 （✔Q1, ✔Q2, ✔Q3, ✔Q4, ✍Q5）                              |                                                              |
+|                                                              | review A05 Q5 (a, b)                                         |                                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo<br />.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
 |                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18            |                                                              |
 |                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
