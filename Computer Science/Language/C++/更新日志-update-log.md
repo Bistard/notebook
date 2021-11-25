@@ -10,6 +10,8 @@
 | 未更新内容                                       |
 | ------------------------------------------------ |
 | 迁移预处理部分笔记                               |
+| `std::shared_ptr`                                |
+| `std::weak_ptr`                                  |
 | 预处理 - circular `#include`                     |
 | 预处理 - Pimpl Idiom (pointer to implementation) |
 | `std::swap()`函数                                |

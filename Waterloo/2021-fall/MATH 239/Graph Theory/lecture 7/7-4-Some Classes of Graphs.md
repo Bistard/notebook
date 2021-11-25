@@ -13,3 +13,4 @@
 # Complete Bipartite Graphs
 
 ![image-20211103201442128](D:\dev\AllNote\.mdnote\assets\image-20211103201442128.png)
+

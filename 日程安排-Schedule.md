@@ -12,9 +12,9 @@
 |                                                              | mobius Unit 13                                               | December 7, 2021 at 5:00 PM                                  |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
 |                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
-|                                                              | lecture vds                                                  |                                                              |
+|                                                              | ✍lecture vds                                                 |                                                              |
 |                                                              | tutorial 11                                                  | 这周五 早上 10:00 AM (中国时间)                              |
-|                                                              | A07 （✍Q1,Q2,✍Q3）                                           | Thursday November 25 at 11am                                 |
+|                                                              | A07 （✔Q1,✔Q2, ✔Q3）                                         | Thursday November 25 at 11am                                 |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                              |
 |                                                              | ✔logic 15, ✔logic 16a， Logic 16b                            |                                                              |
 |                                                              | practice quizes                                              |                                                              |
