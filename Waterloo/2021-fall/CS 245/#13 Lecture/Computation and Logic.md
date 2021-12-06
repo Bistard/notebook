@@ -32,7 +32,7 @@
 
 <img src="../../../../.mdnote/assets/image-20211124221719483.png" alt="image-20211124221719483" style="zoom:67%;" />
 
-## Interpretation && How it works
+## Interpretation && How it works (five-tuple)
 
 <img src="../../../../.mdnote/assets/image-20211124221807776.png" alt="image-20211124221807776" style="zoom:67%;" />
 

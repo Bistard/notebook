@@ -11,27 +11,23 @@
 |                                                              | mobius Unit 11/12                                            | December 7, 2021 at 5:00 PM                                  |
 |                                                              | mobius Unit 13                                               | December 7, 2021 at 5:00 PM                                  |
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
-|                                                              | [presentation preparing - Dijkstra's Algorithm](https://docs.google.com/presentation/d/1GYgjNNivTWpUEDADrV10v5KgAm0ULop37Bjcvs-Nquw/edit#slide=id.gdb0f9523dd_0_68) | 周六 中国时间                                                |
-|                                                              | ✍lecture vds                                                 |                                                              |
-|                                                              | tutorial 11                                                  | 这周五 早上 10:00 AM (中国时间)                              |
-|                                                              | A07 （✔Q1,✔Q2, ✔Q3）                                         | Thursday November 25 at 11am                                 |
+|                                                              | tutorial questions                                           | 周五上午10点                                                 |
+|                                                              | A09                                                          |                                                              |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                              |
-|                                                              | ✔logic 15, ✔logic 16a， Logic 16b                            |                                                              |
-|                                                              | practice quizes                                              |                                                              |
-|                                                              | ✔Marked Quiz 4                                               | Due on Nov 17, 2021 12:00 PM                                 |
+|                                                              | ✔logic 15, ✔logic 16a， Logic 16b, Logic 17                  |                                                              |
+|                                                              | practice quizes                                              | December 7, 2021 at 11:59 PM                                 |
 |                                                              | review Marked Quiz 4                                         |                                                              |
 |                                                              | review A05 Q5 (a, b)                                         |                                                              |
+|                                                              | ✍Lectures                                                    |                                                              |
+|                                                              | ✔marked quiz                                                 | Due on Dec 1, 2021 12:00 PM（林城一点）                      |
+|                                                              | A06 (Q1, Q2, Q3, Q4, Q5)                                     |                                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo<br />.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
-|                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18            |                                                              |
-|                                                              | quiz #10                                                     | Friday, November 26, 5pm                                     |
-|                                                              | final - due date 1 (✍UML, plan of attack)                    | Friday, November 26, 5pm                                     |
-|                                                              | final - due date 2                                           | Friday, December 14, 5pm                                     |
+|                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18, nov23, nov25 |                                                              |
+|                                                              | ✍ AGE engine (Controller, Model, View, Motion, Gravity, Collision, Quadtree, game1, game2) | Friday, December 14, 5pm                                     |
 | [**SPOCOM 100**](https://learn.uwaterloo.ca/d2l/le/content/726790/Home) |                                                              |                                                              |
-|                                                              | 3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                                              |
-|                                                              | Communicating Online Response Paper                          | Nov 26, 2021 11:59 PM                                        |
+|                                                              | ✍3 comments for each week (>= 100 words) (comment should no longer than 3 weeks) |                                                              |
 | **PD1**                                                      |                                                              |                                                              |
 |                                                              | apply for coop work-permit                                   |                                                              |
-|                                                              | ✔Assignment 8: Pulling It All Together                       | Tuesday, November 16, 2021 at 11:55 PM (20%)                 |
 | **DWZQ-coop**                                                |                                                              |                                                              |
 | #1                                                           | ✔compilation                                                 |                                                              |
 |                                                              | ✔develop on xxx.xxx.xxx.167                                  |                                                              |
