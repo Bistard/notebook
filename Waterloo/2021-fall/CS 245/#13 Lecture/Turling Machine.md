@@ -66,9 +66,31 @@
 
 ![image-20211201230209233](../../../../.mdnote/assets/image-20211201230209233.png)
 
- ![image-20211207222331931](../../../../.mdnote/assets/image-20211207222331931.png)
+ ![image-20211207222331931](../../../../.mdnote/assets/image-20211207222331931.png)![image-20211208000253319](../../../../.mdnote/assets/image-20211208000253319.png)![image-20211208000303603](../../../../.mdnote/assets/image-20211208000303603.png)![image-20211208000327390](../../../../.mdnote/assets/image-20211208000327390.png)
 
+## 这里省略一些截图， 感觉属于案例类型，我懒得截屏了
 
+## Halting Problem & (seeded) Tiling Problem
 
+![image-20211208000449848](../../../../.mdnote/assets/image-20211208000449848.png)
 
+# Computability and Uncomputability
+
+![image-20211208000509600](../../../../.mdnote/assets/image-20211208000509600.png)
+
+# Decidability, computability, complexity
+
+![image-20211208000520023](../../../../.mdnote/assets/image-20211208000520023.png)![image-20211208000645062](../../../../.mdnote/assets/image-20211208000645062.png)![image-20211208000653376](../../../../.mdnote/assets/image-20211208000653376.png)![image-20211208000705170](../../../../.mdnote/assets/image-20211208000705170.png)
+
+# The classes $P$ and $NP$ (deterministic vs. non-deterministic TMs)
+
+![image-20211208000735399](../../../../.mdnote/assets/image-20211208000735399.png)![image-20211208000740780](../../../../.mdnote/assets/image-20211208000740780.png)![image-20211208000747345](../../../../.mdnote/assets/image-20211208000747345.png)
+
+# Tractable vs. intractable problems
+
+![image-20211208000917055](../../../../.mdnote/assets/image-20211208000917055.png)
+
+# $P$ vs. $NP$ and $NP$-complete problems
+
+![image-20211208000955907](../../../../.mdnote/assets/image-20211208000955907.png)![image-20211208001039705](../../../../.mdnote/assets/image-20211208001039705.png)![image-20211208001049387](../../../../.mdnote/assets/image-20211208001049387.png)
 
