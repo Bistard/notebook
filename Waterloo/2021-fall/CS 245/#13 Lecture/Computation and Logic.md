@@ -64,7 +64,7 @@
 
 ## Decidable problems and decidable sets in $\mathbb N$
 
-<img src="../../../../.mdnote/assets/image-20211124225907235.png" alt="image-20211124225907235" style="zoom:50%;" />
+<img src="../../../../.mdnote/assets/image-20211124225907235.png" alt="image-20211124225907235" style="zoom:80%;" />
 
 ## Decidable problems in $\mathbb N$
 

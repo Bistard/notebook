@@ -7,13 +7,6 @@
 | [**MATH 239**](https://learn.uwaterloo.ca/d2l/le/content/708429/Home) |                                                              |                                                              |
 |                                                              | ✔A09                                                         |                                                              |
 | [**CS 245**](https://learn.uwaterloo.ca/d2l/le/content/709696/Home) |                                                              |                                                              |
-|                                                              | ✔logic 15, ✔logic 16a， Logic 16b, Logic 17                  |                                                              |
-|                                                              | ✍practice quizes                                             | December 7, 2021 at 11:59 PM                                 |
-|                                                              | review Marked Quiz 4                                         |                                                              |
-|                                                              | review A05 Q5 (a, b)                                         |                                                              |
-|                                                              | ✍Lectures                                                    |                                                              |
-|                                                              | ✔marked quiz                                                 | Due on Dec 1, 2021 12:00 PM（林城一点）                      |
-|                                                              | A06 (Q1, Q2, Q3, Q4, Q5)                                     |                                                              |
 | [**CS 246E**](https://student.cs.uwaterloo.ca/~cs246e/F21/assignments.shtml) | git clone ssh://s795li@linux.student.cs.uwaterloo<br />.ca/u/cs246e/pubrepo/1219/.git | ssh -Y s795li@linux.student.cs.uwaterloo.ca<br />            |
 |                                                              | lecture ✔nov2, ✔nov4, ✔nov9, ✔nov11, nov16, nov18, nov23, nov25 |                                                              |
 |                                                              | AGE engine (Controller, Model, View, Motion, Gravity, Collision, Quadtree, game1, game2) | Friday, December 14, 5pm                                     |
