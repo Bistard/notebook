@@ -29,4 +29,7 @@
 | [remove mutiple elements from `std::vector`](https://stackoverflow.com/questions/3487717/erasing-multiple-objects-from-a-stdvector) |
 | [Resolving a Circular Dependency between Template Classes](https://stackoverflow.com/questions/3353831/resolving-a-circular-dependency-between-template-classes) |
 | template unpacking / function result unpacking               |
+| std::tuple                                                   |
+| std::make_tuple using unpacking reference (using std::ref)   |
+| [more things about `tuple`](https://www.fluentcpp.com/2020/10/16/tie-make_tuple-forward_as_tuple-how-to-build-a-tuple-in-cpp/) |
 
