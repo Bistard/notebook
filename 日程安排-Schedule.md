@@ -126,3 +126,30 @@
 
     * [ ] streams.consumeStream()
 
+
+
+* class `Compoennt` base class 和 一堆超级简单无脑的迷你继承`Component`s, 比如velocity, position, render, texture, 
+    * 记得写一个helper function用来为每个不同的component type生成一个unique id， see `chrisli/component.h`
+
+* class `Object` (对应ECS中的`Entity`)
+    * wrapper of `Component`s
+    * 必顶有个vector存`Component`
+    * 额外的一些details：
+        * 需要些APIs去add/remove `Compoennt` (最好不用写在`Entity`里面， 写在`ObjectManger`)
+* class `ObjectManager` (对应的就是我的`Registry`)
+    * fields:
+        * vector of `Object`
+    * APIs:
+        * Object &createObject(); 唯一正确途径去创建一个`Object`
+        * 
+        * ComponentType &addComponent\<ComponentType, Arg...\>(Object &, Args... args); [note: 必定是个template function]
+        * removeComponent<>() [对应的是我的Regisry::remove()]
+        * bool hasComponent<>(Object &);
+        * ComponentType &getComponent<>(Object &);
+        * void destroyObject(Object &);
+        * void clearAllObjects();
+        *  
+        * vector\<Object *\> query\<ComponentType\>();
+            * 注释：用来搜索所有Object which obtains the provided ComponentType.
+            * 实现：for loop every `Object`, for each `component` in `Object`, check if the component is the same as the `ComponentType`, if so , add a pointer to that Obejct into a vector, if not , pass it. Return the vector at last.
+

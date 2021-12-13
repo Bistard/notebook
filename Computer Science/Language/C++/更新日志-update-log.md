@@ -24,4 +24,9 @@
 | 虚继承 （并阐述装饰器模式的区别）                            |
 | [calling a template base class method](https://coderedirect.com/questions/165119/why-can-i-call-base-template-class-method-from-derived-class) |
 | [override and visibility](https://stackoverflow.com/questions/50722824/c-override-private-pure-virtual-method-as-public) |
+| [iterate template pack](http://www.cplusplus.com/forum/general/221080/) |
+| decltype ([why decltype(auto)]())                            |
+| [remove mutiple elements from `std::vector`](https://stackoverflow.com/questions/3487717/erasing-multiple-objects-from-a-stdvector) |
+| [Resolving a Circular Dependency between Template Classes](https://stackoverflow.com/questions/3353831/resolving-a-circular-dependency-between-template-classes) |
+| template unpacking / function result unpacking               |
 
