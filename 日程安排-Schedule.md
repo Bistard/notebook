@@ -35,76 +35,99 @@
 
 
 
-## vscode fileService Step By Step
+## vscode fileService Related Code Step By Step
 
-* [ ] fileService
+* [x] **VSBuffer**
 
-  * [ ] readFile()
+  * [x] wrapper of `Uint8Array`
 
-  * [ ] doReadFile()
+* [x] **stream**
 
-  * [ ] _doReadFile()
+  * [x] `ReadableStreamEvent`
 
-  * [ ] _doReadFileStream()
+  * [x] `ReadableStream`继承了上述
 
-    * [ ] readFileUnbuffered()
+  * [x] `ReadableBufferedStream`是一个interface存了一个`ReadableStream`和一个array of buffer. 理解为a stream that has a buffer already read.
 
-    * [x] readFileStreamed(provider)
+  * [x] `WriteableStream`继承了上述
 
-      * [x] call: provider.readFileStream() - diskFileSystemProvider
+  * [x] `Readable`
 
-        * [x] newWriteableStream()
+    ​	这玩意只是一个interface拥有一个`read()`函数，涉及面就很广了，可以全局搜索关键词`public read()`。
 
-        * [x] readFileIntoStream()
+    ​	又或者，调用函数`toReadable<T>(t: T): Readable<T>`可将数据转换成`Readable`。
 
-          * [x] ⭐doReadFileIntoStream()
+  * [x] `writeableStreamImpl`继承了`WriteableSteam`
 
-            * [x] const handle = await provider.open();
+    * [x] 在非`flow`状态下，`write()`函数只会将`buffer`储存到`stream`里面，并不会开始将数据发送给监听者。想要开始`flow`数据，只能需要调用`resume()`。
 
-            * [x] let buffer = VSBuffer.alloc();
+      我没理解错的话，在vscode中，不存在一个stream是`readable`但不是`writeable`的。
 
-            * [x] do {
+* [x] **provider**
 
-              	bytesRead = await provider.read(handle, posInFile, buffer.buffer, posInBuffer, buffer.byteLength - posInBu);
+  * [x] 我对`provider`的理解偏向于总结为，不同`URI.scheme`会有一个自己对应功能的`provider`，`provider`是用来抽象化不同`URI.scheme`所对应的`read/write/...`等函数内部实现的。比如我们有`diskFileSystemProvider`对应的就是`Schemas.file: "file"`。
+
+* [ ] **fileService Writing Functionality**
   
-              provider.write(buffer);
-            
-              buffer = VSBuffer.alloc();
-            
-            * [x] } while (bytesread > 0);
-
-    * [ ] readFileBuffered()
-
-    * [ ] ...
-
-  * [ ] streamToBuffer()
+  * 总结：对于`fileService`的写入功能来说，可以写入四种数据，`VSBuffer`, `Readable<VSBuffer>`, `ReadableStream<VSBuffer>`, `ReadableBufferedStream<VSBuffer>`。
+  * [x] `writeFile()`函数
+    * [x] 函数内部中，首先会获得一个`writeableProvider`，然后需要的话会recursively创建路径文件夹。
+    * [ ] 然后做了一个optimization：读取3个chunks试图去reduce overhead。然后根据provider，有两种写入方法，buffered和unbuffered。
+    * [x] `doWriteUnbuffered()`
+      * [x] 会调用`ResourceQueue.queueFor()`，
+      * [x] 然后去调用`doWriteUnbufferedQueued()`
+        * [x] 最后会将写入数据最终转换成`VSBuffer`，并调用`provider.writeFile()`, 
+        * [x] 总结：一次性写入。
+    * [x] `doWriteBuffered()`
+      * [x] 会调用`ResourceQueue.queueFor()`，然后会根据传入数据不同，调用两个不同函数。
+      * [x] `doWriteStreamBufferedQueued()`
+        * [x] 这个函数会开始真正的writing，首先试图把以读的buffer写入（`doWriteBuffer() -> provider.write()`）。
+        * [x] 然后调用`listenStream()`来将stream里的数据写入（`doWriteBuffer() -> provider.write()`）。
+      * [x] `doWriteReadableBufferedQueued()`
+        * [x] 和上面函数基本一样的逻辑，一直调用`read()`函数获得`VSBuffer`，然后将数据写入（`doWriteBuffer() -> provider.write()`）。
   
-    * [ ] streams.consumeStream()
-  
+* [ ] **fileService Reading Functionality**
+
+  内部可以通过`registerProvider()`来提供`provider`, 比如`fileDiskSystemProvider`.
+
+  * [x] `readFile()`函数
+
+    * [x] 先获得一个`provider`（`withReadProvider()`）
+
+    * [x] 调用`doReadFile()`
+
+      * [x] 直接调用`doReadFileStream()`
+
+        内部implementation会涉及到三种读取文件的方式，`readFileUnbuffered()`，`readFileStreamed()`，`readFileBuffered()`。
+
+        `readFileBuffered()`和`readFileUnbuffered()`都会创建一个`WriteableStreamImpl<VSBuffer>()`。
+
+        * [x] `readFileBuffered()`
+          * 会调用函数`readFileIntoStream()`.
+          * 核心逻辑放在`doReadFileIntoStream()`中，
+          * 运行逻辑是打开文件(`provider.open()`)，
+          * 然后分配一个`buffer(VSBuffer.alloc())`，
+          * 紧接着循环向`buffer`里面读取数据（`provider.read()`），
+          * 一旦`buffer`读满了会将`buffer`存入`writeableStream`当中（`stream.write(buffer)`）并创建一个新的`buffer`。
+            * 注意，因为这里的stream为非`flow`状态，因此数据并不会发送给任何`listeners`。
+          * 直到整个文件读取完毕后关闭文件（`provider.close()`），最后返回整个`writeableStream`。
+          * 总结：同步（`sync`）的一次性读完整个文件。
+        * [x] `readFileUnBuffered()`
+          * 和上面一种方法有两个不一样的地方，一是通过异步(`async`)读取文件并写入到`stream`中，并且只会读取一次整个文件进入一个`buffer`。
+        * [ ] `readFileStreamed()` 
+          * 该方法永远优先于`readFileBuffered`（对于`diskFileSystemProvider`而言，永远都是优先采用该方法来读取文件）
+          * 该方法会调用`provider.readFileStream()`，
+            * 因此对于`diskFileSystemProvider`而言，该函数里会创建一个`WriteableStreamImpl<Uint8Array>()`并且调用`readFileIntoStream()`。
+      
+      * [x] 调用`streamToBuffer()`
+      
+        * [x] `streams.consumeStream()`
+          * [x] `listenStream()`
+            * [x] `stream.on('data')`
+              * [x] `stream.resume()`
+                * [x] `flowData()`
+                  * [x] `emitData()`
+                    * [x] sending `VSBuffer` to listeners (callbacks from all the listeners are invoked)
 
 
 
-* class `Compoennt` base class 和 一堆超级简单无脑的迷你继承`Component`s, 比如velocity, position, render, texture, 
-    * 记得写一个helper function用来为每个不同的component type生成一个unique id， see `chrisli/component.h`
-
-* class `Object` (对应ECS中的`Entity`)
-    * wrapper of `Component`s
-    * 必顶有个vector存`Component`
-    * 额外的一些details：
-        * 需要些APIs去add/remove `Compoennt` (最好不用写在`Entity`里面， 写在`ObjectManger`)
-* class `ObjectManager` (对应的就是我的`Registry`)
-    * fields:
-        * vector of `Object`
-    * APIs:
-        * Object &createObject(); 唯一正确途径去创建一个`Object`
-        * 
-        * ComponentType &addComponent\<ComponentType, Arg...\>(Object &, Args... args); [note: 必定是个template function]
-        * removeComponent<>() [对应的是我的Regisry::remove()]
-        * bool hasComponent<>(Object &);
-        * ComponentType &getComponent<>(Object &);
-        * void destroyObject(Object &);
-        * void clearAllObjects();
-        *  
-        * vector\<Object *\> query\<ComponentType\>();
-            * 注释：用来搜索所有Object which obtains the provided ComponentType.
-            * 实现：for loop every `Object`, for each `component` in `Object`, check if the component is the same as the `ComponentType`, if so , add a pointer to that Obejct into a vector, if not , pass it. Return the vector at last.
