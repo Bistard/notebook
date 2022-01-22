@@ -33,9 +33,30 @@
 | Microsoft 365 personal | CAD $79.00 | 1年  |               | 2022年5月14日 |
 | bilibili年度会员       | 108$       | 1年  | 2021年9月30日 | 2022年9月30日 |
 
+## 总览
 
 
-## vscode fileService Related Code Step By Step
+
+* [ ] ExplorerView
+
+  ​		这里创建了一个`FilesRenderer`的实例，然后一直传下去最终传到`ListView`。
+
+  * [ ] WorkbenchCompressibleAsyncDataTree
+    * [ ] CompressibleAsyncDataTree
+      * [ ] AsyncDataTree
+        * [ ] ObjectTree
+          * [ ] AbstractTree
+            * [ ] TreeNodeList
+              * [ ] List
+                * [ ] 🏃‍ListView
+                  * [x] Scrollable
+                    * [x] ScrollState
+                    * [x] SmoothScrollingOperation
+                  * [x] SmoothScrollableElement
+                    * [x] VerticalScrollbar && HorizontalScrollbar
+                      * [x] AbstractScrollbar
+
+## ✔vscode - fileService Related Code Step By Step
 
 * [x] **VSBuffer**
 
@@ -131,3 +152,4 @@
 
 
 
+![]()

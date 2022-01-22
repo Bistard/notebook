@@ -22,6 +22,5 @@ class Solution:
             if num not in h:
                 h[target-num] = i
             else:
-                return [h[num], i]
+                return [h[num],
 ```
-
