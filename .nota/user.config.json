@@ -1,0 +1,12 @@
+{
+  "notebookmanager": {
+    "noteBookManagerExclude": [
+      ".*"
+    ],
+    "noteBookManagerInclude": []
+  },
+  "markdown": {
+    "fileAutoSaveOn": false,
+    "defaultMarkdownMode": "wysiwyg"
+  }
+}
