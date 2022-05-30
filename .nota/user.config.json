@@ -1,9 +1,10 @@
 {
-  "notebookmanager": {
-    "noteBookManagerExclude": [
-      ".*"
+  "notebookManager": {
+    "notebookManagerExclude": [
+      "^\\..*"
     ],
-    "noteBookManagerInclude": []
+    "notebookManagerInclude": [],
+    "previousOpenedNotebook": "Computer Science"
   },
   "markdown": {
     "fileAutoSaveOn": false,
