@@ -1,30 +1,30 @@
-|                  | **Description**                                              |      |
-| ---------------- | ------------------------------------------------------------ | ---- |
-| **Daily**        |                                                              |      |
-|                  | 华为安装google service                                       |      |
-|                  | 去银行换手机绑定                                             |      |
-|                  | 报名WE                                                       |      |
-|                  | 申请coop工签                                                 |      |
-|                  | 发邮件关于转cs系的事情（等出分以后）                         |      |
-|                  | 试着上1/2门课                                                |      |
-|                  | 租房                                                         |      |
-|                  | ✔网购HDMI to DP / miniDP                                     |      |
-| **MarkdownNote** |                                                              |      |
-|                  | architecture explanation.md                                  |      |
-|                  | UML for DI                                                   |      |
-|                  | UML && 时序图 - FileService                                  |      |
-|                  | 观察stream如何按chunk读文件                                  |      |
-|                  | decode DataBuffer                                            |      |
-|                  | 替换/实装service                                             |      |
-|                  | 测试按chunk读取 vs. 一次性读取                               |      |
-|                  | performanceService?                                          |      |
-|                  | writeFile功能                                                |      |
-|                  | 优化uri.ts                                                   |      |
-|                  | 完善fileService和diskFileSystemProvider                      |      |
-|                  | 研究protobuf技术 (效率 + 体积 + 是否足够轻便?)               |      |
-|                  | 如果protobuf整个数据集太臃肿了, 要不要试一下json+部分protobuf数据集? |      |
-|                  | 每个notebook都用一个单独的protobuf去记录, 这样子当只修改了一个notebook的时候不需要全部重新生成新的protobuf |      |
-|                  | 重构file tree                                                |      |
+|           | **Description**                      |      |
+| --------- | ------------------------------------ | ---- |
+| **Daily** |                                      |      |
+|           | 华为安装google service               |      |
+|           | 去银行换手机绑定                     |      |
+|           | 报名WE                               |      |
+|           | 申请coop工签                         |      |
+|           | 发邮件关于转cs系的事情（等出分以后） |      |
+|           | 试着上1/2门课                        |      |
+|           | 租房                                 |      |
+|           | ✔网购HDMI to DP / miniDP             |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
+|           |                                      |      |
 
 
 
