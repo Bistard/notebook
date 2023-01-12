@@ -2,7 +2,7 @@
 Personal usage.
 
 
-# 2023 - Goals of Year
+# 2023 - Goals of The Year
 * [ ] Read ten books.
   * [x] The Rust Programming Language
   * [ ] ...
