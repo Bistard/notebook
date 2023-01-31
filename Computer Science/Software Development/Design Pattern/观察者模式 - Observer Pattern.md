@@ -2,7 +2,7 @@
 
 参考以下UML
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122132215855.png" alt="image-20211122132215855" style="zoom:50%;" />
+<img src=".\.images\image-20211122132215855.png" alt="image-20211122132215855" style="zoom:50%;" />
 
 Sequence of calls:
 

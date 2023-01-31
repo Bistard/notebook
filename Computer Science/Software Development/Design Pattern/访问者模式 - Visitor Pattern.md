@@ -24,7 +24,7 @@
 
 ## 案例 1 - Example 1
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122143344887.png" alt="image-20211122143344887" style="zoom:67%;" />
+<img src=".\.images\image-20211122143344887.png" alt="image-20211122143344887" style="zoom:67%;" />
 
 
 

@@ -16,9 +16,7 @@
 
 ## 案例
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122110742423.png" alt="image-20211122110742423" style="zoom:44%;" />
-
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122134405957.png" alt="image-20211122134405957" style="zoom:50%;" />
+<img src=".\.images\image-20211122134405957.png" alt="image-20211122134405957" style="zoom:50%;" />
 
 
 
