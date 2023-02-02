@@ -5,5 +5,6 @@ Personal usage.
 # 2023 - Goals of The Year
 * [ ] Read ten books.
   * [x] The Rust Programming Language
+  * [ ] Clean Architecture - Robert Martin
   * [ ] ...
-* [ ] Make Nota into the alpha stage at the end of the year.
+* [ ] Push Nota into the alpha stage.
