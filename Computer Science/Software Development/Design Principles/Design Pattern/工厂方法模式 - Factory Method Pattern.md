@@ -6,7 +6,7 @@
 
 ## 案例 - Example
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122133203001.png" alt="image-20211122133203001" style="zoom:67%;" />
+<img src=".\.images\image-20211122133203001.png" alt="image-20211122133203001" style="zoom:67%;" />
 
 Consider if we want
 

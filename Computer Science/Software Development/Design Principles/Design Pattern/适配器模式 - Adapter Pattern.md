@@ -2,7 +2,7 @@
 
 >  将一个类的接口转换成客户希望的另一个接口。Adapter 模式使得原本由于接口不兼容而不能在一起工作的那些类可以一起工作。
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122120722326.png" alt="image-20211122120722326" style="zoom:50%;" />
+<img src=".\.images\image-20211122120722326.png" alt="image-20211122120722326" style="zoom:50%;" />
 
 ## 案例 - Example
 

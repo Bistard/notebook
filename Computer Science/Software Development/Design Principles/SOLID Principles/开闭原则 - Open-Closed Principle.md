@@ -14,13 +14,13 @@ This means that a class should be extendable without modifying the class itself.
 
 考虑以下UML
 
-![image-20211122110222722](D:\dev\AllNote\.mdnote\assets\image-20211122110222722.png)
+![image-20211122110222722](.\.images\image-20211122110222722.png)
 
 如果说我们想要往Earth添加一个新的物钟，比如`Cat`呢？这样的UML设计就是not open for extension - must change source code.
 
 我们可以修改成以下 (利用Abstraction): Earch should work with an abstract Animal (this is using <u>Strategy Pattern</u>).
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211122110742423.png" alt="image-20211122110742423" style="zoom:50%;" />
+<img src=".\.images\image-20211122110742423.png" alt="image-20211122110742423" style="zoom:50%;" />
 
 > **Note**: can't really be 100% closed. Some changes require source modification.
 
