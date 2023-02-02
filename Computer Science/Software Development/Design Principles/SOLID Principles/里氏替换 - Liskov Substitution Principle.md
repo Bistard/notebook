@@ -1,4 +1,4 @@
-# 里氏替换 - Liskou Substitution Principle
+# 里氏替换 - Liskov Substitution Principle
 
 Liskov Substitution Principle states:
 
