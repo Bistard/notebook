@@ -4,8 +4,6 @@ NVI says
 
 > All virtual methods should be private or protected (exception: destructor). All public methods should be non-virtual.
 
-
-
 ## Example
 
 bad:
@@ -16,8 +14,6 @@ public:
     virtual void play() = 0;
 };
 ```
-
-
 
 good:
 
