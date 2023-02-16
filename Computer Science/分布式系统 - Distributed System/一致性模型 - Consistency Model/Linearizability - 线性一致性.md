@@ -1,6 +1,6 @@
 # Linearizability
 
-* Linearizability是**最强的单一对象**的一致性模型（Consistency Model）.
+> 可以说Linearizability模型是Strict consistency模型的一种特例。Linearizability模型更容易实现和验证，而Strict consistency模型的实现比较困难。
 
 An operation (or set of operations) is **linearizable** if it consists of an ordered list of *invocation* and *response* events, that may be extended by adding response events such that:
 
@@ -73,3 +73,8 @@ These instructions are used directly by compiler and operating system writers bu
     * A common theme when designing linearizable objects is to provide an all-or-nothing interface: either an operation succeeds completely, or it fails and does nothing (ACID). For example:
         * Compare-and-swap
         * Load-link/store-conditioanl
+
+# Reference
+
+* https://zhuanlan.zhihu.com/p/57300417
+* https://en.wikipedia.org/wiki/Linearizability
