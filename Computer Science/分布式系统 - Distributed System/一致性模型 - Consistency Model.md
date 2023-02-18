@@ -24,6 +24,22 @@
 * 在分布式系统中，操作的耗时被放大了，我们必须使一致性模型**更宽松**：允许这些有歧义的顺序发生。
 * 我们该如何确定宽松的程度？我们必须允许所有可能的顺序吗？或许我们还是应该强加一些合理性约束？
 
+## 不同强度的一致性模型
+
+通常分类中，我们可以将一个consistency model归类于<u>strong consistency model</u> （strict consistency model）或者<u>weak consistency model</u>，甚至some point between strong and weak。
+
+* 越strong的一致性模型，越可能适合去用来设计那些数据长时间和软件本身打交道的场景。
+* 越weak的一致性模型，越可能适合去用来设计那些数据长时间和人打交道的场景。
+* 当然，具体情况具体讨论，以上规则并不通用。对于每一个实际场景都要进行深度刨析，选择最适合的一致性模型。
+
+譬如，我们可以给一些一致性模型进行一个排序:
+
+* strict consistency
+* sequential consistency
+* casual consistency
+* FIFO consistency (PRAM consistency)
+* eventual consistency
+
 # Reference
 
 * https://aphyr.com/posts/288-the-network-is-reliable
