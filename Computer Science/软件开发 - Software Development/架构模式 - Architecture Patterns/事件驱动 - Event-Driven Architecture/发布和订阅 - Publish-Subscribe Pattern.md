@@ -10,8 +10,6 @@
 
 ![image-20230219142721555](./.images/image-20230219142721555.png)
 
-
-
 # Reference
 
 * https://www.altexsoft.com/blog/event-driven-architecture-pub-sub/
