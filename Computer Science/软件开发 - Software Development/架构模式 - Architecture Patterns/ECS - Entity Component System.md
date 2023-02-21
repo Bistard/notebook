@@ -17,9 +17,15 @@ An ECS comprises <u>entities</u> composed from <u>components</u>, with <u>system
 
 ![image-20230221180714948](./.images/image-20230221180714948.png)
 
+## 对ECS的进阶评价
+
+以下是《黑神话：悟空》技术总监对ECS的评价：[评价链接](https://www.zhihu.com/question/286963885/answer/456710929)
+
 ## 历史 - History
 
 ECS这玩意发明的时候比较近代了，大约发生在2007年那个时间段左右。
+
+
 
 # Reference
 
