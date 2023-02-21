@@ -42,3 +42,4 @@ The contracts between the plug-in modules and the core system can range anywhere
 # Reference
 
 * Software Architecture Patterns by Mark Richards
+* https://zhuanlan.zhihu.com/p/94665982
