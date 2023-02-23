@@ -131,7 +131,4 @@ Operations are shown in the third partition. They are services the class provide
 
 ![image-20211122014019239](./.images/image-20211122014019239.png)
 
-![image-20211122173459423](../../../../.mdnote/assets/image-20211122173459423.png)
-
-![img](file:///D:\software\QQ\1015813038\Image\C2C\Q$@7VCMXMMK%UL20{`7B}ZL.jpg)
-
+![image-20230223144204935](./.images/image-20230223144204935.png)
