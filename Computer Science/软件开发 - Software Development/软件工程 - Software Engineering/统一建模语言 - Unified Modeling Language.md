@@ -34,3 +34,10 @@ UML2中，图的类别主要分类成两种：
 * https://www.visual-paradigm.com/cn/guide/uml-unified-modeling-language/what-is-uml/
 * https://zhuanlan.zhihu.com/p/109655171
 
+
+
+![image-20230224173335485](./.images/image-20230224173335485.png)
+
+> 这张图可以简单做个参考，具体使用情况根据场景而变化。
+>
+> （转）UML学习入门就这一篇文章 - 永恒之魂的文章 - 知乎 https://zhuanlan.zhihu.com/p/63147410
