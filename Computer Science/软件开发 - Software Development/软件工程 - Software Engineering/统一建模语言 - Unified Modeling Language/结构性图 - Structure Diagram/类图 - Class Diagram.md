@@ -1,3 +1,9 @@
+# 类图 - Class Diagram
+
+> 类图（class diagram）是面向对象（OOP）分析和设计中的一种图表，它用于展示系统中的类、接口、关联、继承等元素以及它们之间的关系。类图是一种静态结构图，它描述了一个系统中类的属性、操作和它们之间的关系。
+>
+> 类图是面向对象分析和设计的重要工具之一，它可以用来描述系统中的静态结构，并帮助开发人员更好地理解系统的设计和实现。在软件开发过程中，类图可以用于指导代码的编写和测试。
+
 # 类图的作用 - Purpose of Class Diagram
 
 1. Shows static structure of classifiers in a system
@@ -53,7 +59,7 @@ Operations are shown in the third partition. They are services the class provide
 - `+`表示 `public`
 - `-`表示 `private`
 - `#`表示 `protected`
-- `~`表示 `default in the same packge`
+- `~`表示 `default in the same package`
 
 ![image-20211122010928079](./.images/image-20211122010928079.png)
 
