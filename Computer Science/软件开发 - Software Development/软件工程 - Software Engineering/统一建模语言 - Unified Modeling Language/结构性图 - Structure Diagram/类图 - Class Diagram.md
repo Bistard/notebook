@@ -71,10 +71,12 @@ Operations are shown in the third partition. They are services the class provide
 * 关联关系 - Association
 * 聚合关系 - Aggregation - "has-a" relationthip
 * 组合关系 - Composition - "owns/contains-a" relationship
-* 依赖关系 - Dependency
+* 依赖关系 - Dependency - “use-a” relationship
 * 实现关系 - Implementation
 
 <img src="./.images/image-20211122012030973.png" alt="image-20211122012030973" style="zoom: 67%;" />
+
+![image-20230224170312332](./.images/image-20230224170312332.png)
 
 ## 1 - Inheritance - 泛化关系 - "is-a" relationship
 
