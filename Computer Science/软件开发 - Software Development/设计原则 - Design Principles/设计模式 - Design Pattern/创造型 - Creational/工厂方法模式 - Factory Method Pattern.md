@@ -2,7 +2,7 @@
 
 > The Factory Method Pattern deﬁnes an interface for creating an object, but **lets subclasses decide which class to instantiate**. Factory Method lets a class **defer instantiation to subclasses**.
 
-
+<img src=".images/image-20230227111401703.png" alt="image-20230227111401703" style="zoom:50%;" />
 
 ## 案例 - Example
 
@@ -37,8 +37,8 @@ public:
 
 
 ```cpp
-Enemy *generateAnEnemy(Level *l) {
-    Enemy *e = l->getEnemy(); // we do not what kind of enemy we got, it dep
+Enemy *generateAnEnemy(GameLevel *l) {
+    Enemy *e = l->getEnemy(); // we do not know what kind of enemy we got, it depends on the actual implementations.
     return e;
 }
 ```

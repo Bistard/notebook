@@ -1,4 +1,4 @@
-# 模板设计模式 - Template method pattern
+# 模板设计模式 - Template Method Pattern
 
 考虑以下C++代码：
 
