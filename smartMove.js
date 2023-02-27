@@ -30,6 +30,10 @@ class SmartMove {
         source,
         destination,
     ) {
+        if (!source || !destination) {
+            throw new Error();
+        }
+        
         this.#source = source;
         this.#destination = destination;
         this.#cwd = path.dirname(source);
@@ -42,6 +46,7 @@ class SmartMove {
     }
 
     /**
+     * @effect None
      * @param {string} source 
      * @returns {Promise<LinkedImage[]>}
      */
@@ -87,9 +92,11 @@ class SmartMove {
     }
 
     /**
+     * @effect Moves the image files into the destination
      * @param {string} cwd 
      * @param {string} destination 
      * @param {LinkedImage[]} images 
+     * @returns {Promise<void>}
      */
     async #moveLinkedImagesToDestination(cwd, destination, images) {
         
@@ -111,6 +118,12 @@ class SmartMove {
         }
     }
 
+    /**
+     * @effect Move the file into the destination.
+     * @param {string} source 
+     * @param {string} destination 
+     * @returns {Promise<void>}
+     */
     async #moveSourceFileToDestination(source, destination) {
         const destFilePath = path.resolve(destination, path.basename(source));
         fs.promises.copyFile(source, destFilePath);
