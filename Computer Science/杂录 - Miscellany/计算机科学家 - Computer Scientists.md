@@ -7,3 +7,5 @@
 # Nancy Lynch
 
 # Leslie Lamport
+
+# Bjarne Stroustrup
