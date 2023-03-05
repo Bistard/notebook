@@ -117,8 +117,23 @@ function curry(func) {
 >
 > > 同时也可以搭配decorator使用。
 
+## 反柯里化（Uncurrying）
+
+```js
+function uncurrying(fn) {
+  return function(...args) {
+    let ret = fn;
+    for (let i = 0; i < args.length; i++) {
+      ret = ret(args[i]); // 反复调用currying版本的函数
+    }
+    return ret; // 返回结果
+  };
+}
+```
+
 # Reference
 
 * https://en.wikipedia.org/wiki/Currying
 * https://towardsdatascience.com/what-is-currying-in-programming-56fd57103431#:~:text=Currying%20is%20the%20transformation%20of,is%20very%20similar%20to%20it.
 * https://www.zhihu.com/question/37774367/answer/192978122
+* https://zhuanlan.zhihu.com/p/31271179
