@@ -6,6 +6,14 @@
 
 > A compiled language is a programming language whose implementations are typically compilers (translators that generate machine code from source code), and not interpreters (step-by-step executors of source code, where no pre-runtime translation takes place).
 
+编译器包含以下三个部分，
+
+1. 编译器前端：词法分析，语法分析，最终生成抽象语法树这种中间代码。
+2. 编译器优化：中间代码多次转换，多种优化，
+3. 编译器后端：目标代码生成，优化目标代码。
+
+<img src="./.images/image-20230304202440847.png" alt="image-20230304202440847" style="zoom:67%;" />
+
 ## Compiled Language
 
 Some languages that are commonly considered to be compiled:
