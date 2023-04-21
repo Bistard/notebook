@@ -1,7 +1,6 @@
 # Personal Notebook
 Personal usage.
 
-
 # 2023 - Goals of The Year
 * [ ] Read ten books.
   * [x] The Rust Programming Language
@@ -11,5 +10,6 @@ Personal usage.
   * [ ] 大象 - Think in UML - 谭云杰
   * [ ] A Philosophy of Software Design - John Ousterhout
 * [ ] Push Nota into the alpha stage.
+  * [ ] Start completing vscode-source-code-analysis.
 * [ ] Lose weight to 70kg.
 * [ ] Complete my notebook system.
