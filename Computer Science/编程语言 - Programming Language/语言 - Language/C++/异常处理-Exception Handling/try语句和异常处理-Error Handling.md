@@ -63,5 +63,5 @@ C++标准库定义了一组类，用于报告标准库函数遇到的问题。�
 * `exception`头文件定义了最通用的异常类`exception`。它只报告异常的发生，不提供任何额外信息。
 * `stdexcept`头文件定义了几种常用的异常类。
 
-<img src="D:\dev\AllNote\.mdnote\assets\image-20211010132007076.png" alt="image-20211010132007076" style="zoom:80%;" />
+
 
